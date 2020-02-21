@@ -11,6 +11,9 @@
 - [数据库事务的四大特性（ACID）以及事务的隔离级别](https://blog.csdn.net/qq_25448409/article/details/78110430)
 - [详解 MySql InnoDB 中意向锁的作用](https://juejin.im/post/5b85124f5188253010326360)
 - [MySQL 分库分表方案，总结的非常好](https://juejin.im/entry/5b5eb7f2e51d4519700f7d3c)
+- [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
+
+
 
 ## 非关系型数据库
 - [Explanation of BASE terminology](https://stackoverflow.com/questions/3342497/explanation-of-base-terminology)
@@ -25,3 +28,4 @@
 ### Redis
 - [redis系列：分布式锁](https://juejin.im/post/5b737b9b518825613d3894f4)
 - [Redis高可用方案-哨兵与集群](https://blog.csdn.net/sunhuiliang85/article/details/78361211)
+- [HyperLogLog 算法的原理讲解以及 Redis 是如何应用它的](https://juejin.im/post/5c7900bf518825407c7eafd0)

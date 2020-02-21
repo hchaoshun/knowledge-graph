@@ -11,3 +11,4 @@
 - [分布式系统技术系列--租约（lease）](http://www.distorage.com/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%E7%B3%BB%E5%88%97-%E7%A7%9F%E7%BA%A6%EF%BC%88lease%EF%BC%89/)
 - [分布式系统：Lamport 逻辑时钟](https://juejin.im/post/5c54103b51882562c0494cc0)
 - [关于分布式事务、两阶段提交协议、三阶提交协议](https://www.hollischuang.com/archives/681)
+- [What’s Split Brain and how to avoid it like the plague?](https://www.starwindsoftware.com/blog/whats-split-brain-and-how-to-avoid-it)
