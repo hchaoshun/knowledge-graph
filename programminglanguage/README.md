@@ -3,6 +3,8 @@
 
 - [编译器与解释器的区别](https://blog.csdn.net/candycat1992/article/details/8069172)
 - [编译型与解释型、动态语言与静态语言、强类型语言与弱类型语言的区别](https://www.cnblogs.com/dzhanjie/archive/2011/07/07/2100340.html)
+- [闭包的概念、形式与应用](https://www.ibm.com/developerworks/cn/linux/l-cn-closure/)
+
 
 ## Python
 - [Python 的 with 语句详解](https://www.jb51.net/article/51045.htm)

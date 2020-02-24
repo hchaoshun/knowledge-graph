@@ -12,7 +12,7 @@
 - [详解 MySql InnoDB 中意向锁的作用](https://juejin.im/post/5b85124f5188253010326360)
 - [MySQL 分库分表方案，总结的非常好](https://juejin.im/entry/5b5eb7f2e51d4519700f7d3c)
 - [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
-
+- [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
 
 ## 非关系型数据库
