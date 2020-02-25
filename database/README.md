@@ -13,6 +13,7 @@
 - [MySQL 分库分表方案，总结的非常好](https://juejin.im/entry/5b5eb7f2e51d4519700f7d3c)
 - [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
 - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+- [MySQL MVCC机制](https://juejin.im/post/5c68a4056fb9a049e063e0ab)
 
 
 ## 非关系型数据库
