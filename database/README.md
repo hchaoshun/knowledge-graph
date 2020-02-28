@@ -14,6 +14,8 @@
 - [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
 - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [MySQL MVCC机制](https://juejin.im/post/5c68a4056fb9a049e063e0ab)
+- [详解 MySql InnoDB 中意向锁的作用](https://juejin.im/post/5b85124f5188253010326360)
+- [乐观锁与悲观锁](https://juejin.im/post/5b4977ae5188251b146b2fc8)
 
 
 ## 非关系型数据库
