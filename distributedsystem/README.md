@@ -12,3 +12,5 @@
 - [分布式系统：Lamport 逻辑时钟](https://juejin.im/post/5c54103b51882562c0494cc0)
 - [关于分布式事务、两阶段提交协议、三阶提交协议](https://www.hollischuang.com/archives/681)
 - [What’s Split Brain and how to avoid it like the plague?](https://www.starwindsoftware.com/blog/whats-split-brain-and-how-to-avoid-it)
+- [分布式锁服务关键技术和常见解决方案](https://cloud.tencent.com/developer/article/1005613?from=10680)
+- [分布式锁服务关键技术和常见解决方案 ( 下）](https://cloud.tencent.com/developer/article/1005614?from=10680)
