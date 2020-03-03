@@ -27,6 +27,7 @@
 - [谈谈 C/C++ 中的 volatile](https://liam.page/2018/01/18/volatile-in-C-and-Cpp/)
 - [c++11之weak_ptr 使用介绍](https://blog.csdn.net/c_base_jin/article/details/79440999)
 - [C++11新特性之十：enable_shared_from_this](https://blog.csdn.net/caoshangpa/article/details/79392878)
+- [C++并发实战16: std::atomic原子操作](https://blog.csdn.net/liuxuejiang158blog/article/details/17413149)
 
 
 ## JavaScript
