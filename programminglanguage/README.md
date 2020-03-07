@@ -50,3 +50,7 @@
 - [The Go Empty Interface Explained](https://flaviocopes.com/go-empty-interface/)
 - [Golang面试题](https://www.kancloud.cn/cserli/golang/530431)
 - [Golang Label使用方法](https://www.jianshu.com/p/73fb21401d41)
+
+
+## Java
+- [JVM 的 工作原理，层次结构 以及 GC工作原理](https://segmentfault.com/a/1190000002579346)
