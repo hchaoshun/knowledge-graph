@@ -14,3 +14,8 @@
 - [What’s Split Brain and how to avoid it like the plague?](https://www.starwindsoftware.com/blog/whats-split-brain-and-how-to-avoid-it)
 - [分布式锁服务关键技术和常见解决方案](https://cloud.tencent.com/developer/article/1005613?from=10680)
 - [分布式锁服务关键技术和常见解决方案 ( 下）](https://cloud.tencent.com/developer/article/1005614?from=10680)
+
+## Raft
+- [Raft 一致性算法总结](http://www.thinkingyu.com/articles/Raft/)
+- [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
+- [深入浅出 Raft - Membership Change](https://www.jianshu.com/p/99562bfec5c2)

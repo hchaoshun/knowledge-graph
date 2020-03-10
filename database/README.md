@@ -32,3 +32,6 @@
 - [redis系列：分布式锁](https://juejin.im/post/5b737b9b518825613d3894f4)
 - [Redis高可用方案-哨兵与集群](https://blog.csdn.net/sunhuiliang85/article/details/78361211)
 - [HyperLogLog 算法的原理讲解以及 Redis 是如何应用它的](https://juejin.im/post/5c7900bf518825407c7eafd0)
+- [缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247485464&idx=1&sn=8d690fc6f878aadf75977aa7e76cfd08&chksm=e9c5f1a9deb278bf512d8b40c30240d0168cdf2cf02142ee913bc11ec39637ca380a4dad524b&scene=21#wechat_redirect)
+
+

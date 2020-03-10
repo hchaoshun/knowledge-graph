@@ -18,3 +18,4 @@ Linux/Unix和网络编程知识汇总
 - [一篇文章让你入门HTTP2.0](https://segmentfault.com/a/1190000016656529)
 - [Cookie 与 Session 的区别](https://juejin.im/entry/5766c29d6be3ff006a31b84e)
 - [Nginx配置指南](https://www.jianshu.com/p/4ee4098f2bbd)
+- [the differences between push and pull cdns](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
