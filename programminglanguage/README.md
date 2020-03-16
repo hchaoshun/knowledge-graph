@@ -16,6 +16,11 @@
 - [c++访问python3-实例化类的方法](https://blog.csdn.net/love_clc/article/details/76653100)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 
+## C
+- [深入 char * ,char ** ,char a[ ] ,char *a[] 内核](https://blog.csdn.net/daiyutage/article/details/8604720?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+- [sizeof和strlen的区别及使用详解](https://blog.csdn.net/magic_world_wow/article/details/80500473)
+
+
 
 ## cpp
 - [标准库里的堆--如何使用标准库的heap算法](https://elloop.github.io/c++/2016-11-29/learning-using-stl-72-make-heap)
