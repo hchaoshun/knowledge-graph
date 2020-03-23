@@ -19,3 +19,4 @@ Linux/Unix和网络编程知识汇总
 - [Cookie 与 Session 的区别](https://juejin.im/entry/5766c29d6be3ff006a31b84e)
 - [Nginx配置指南](https://www.jianshu.com/p/4ee4098f2bbd)
 - [the differences between push and pull cdns](http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/)
+- [TCP三次握手的第三次的 ack包丢失会怎样？](https://blog.csdn.net/gochenguowei/article/details/79649997?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
