@@ -8,6 +8,7 @@ Linux/Unix和网络编程知识汇总
 - [C 语言实现MySQL连接池](https://blog.csdn.net/qq_36359022/article/details/78771282)
 - [不带缓存的I/O和标准(带缓存的)I/O](https://www.cnblogs.com/youxin/p/4061813.html)
 - [高并发的epoll+线程池](https://blog.csdn.net/libaineu2004/article/details/72822558)
+- [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
 - [Linux惊群效应详解](https://blog.csdn.net/lyztyycode/article/details/78648798)
 
 
