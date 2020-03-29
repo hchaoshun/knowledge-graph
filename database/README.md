@@ -16,6 +16,8 @@
 - [MySQL MVCC机制](https://juejin.im/post/5c68a4056fb9a049e063e0ab)
 - [乐观锁与悲观锁](https://juejin.im/post/5b4977ae5188251b146b2fc8)
 - [innodb redo undo](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961444&idx=1&sn=830a93eb74ca484cbcedb06e485f611e&chksm=bd2d0db88a5a84ae5865cd05f8c7899153d16ec7e7976f06033f4fbfbecc2fdee6e8b89bb17b&scene=21#wechat_redirect)
+- [MySQL最左前缀匹配](https://blog.csdn.net/SkySuperWL/article/details/52583579)
+- [MyISAM 和 INNODB的区别(注：innodb从5.6以后支持全文索引)](https://blog.csdn.net/itcats_cn/article/details/82154600?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 
 
 ## 非关系型数据库
@@ -33,5 +35,6 @@
 - [Redis高可用方案-哨兵与集群](https://blog.csdn.net/sunhuiliang85/article/details/78361211)
 - [HyperLogLog 算法的原理讲解以及 Redis 是如何应用它的](https://juejin.im/post/5c7900bf518825407c7eafd0)
 - [缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级等问题](https://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247485464&idx=1&sn=8d690fc6f878aadf75977aa7e76cfd08&chksm=e9c5f1a9deb278bf512d8b40c30240d0168cdf2cf02142ee913bc11ec39637ca380a4dad524b&scene=21#wechat_redirect)
+- [Redis官方亲儿子，RedisCluster是怎么一回事](https://baijiahao.baidu.com/s?id=1643461909684941861&wfr=spider&for=pc)
 
 

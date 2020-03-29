@@ -14,7 +14,7 @@
 - [分布式锁服务关键技术和常见解决方案](https://cloud.tencent.com/developer/article/1005613?from=10680)
 - [分布式锁服务关键技术和常见解决方案 ( 下）](https://cloud.tencent.com/developer/article/1005614?from=10680)
 - [再有人问你分布式锁，这篇文章扔给他](https://juejin.im/post/5bbb0d8df265da0abd3533a5)
-
+- [分布式唯一ID的几种生成方案](https://juejin.im/post/5b3a23746fb9a024e15cad79)
 
 ## Raft
 - [Raft 一致性算法总结](http://www.thinkingyu.com/articles/Raft/)
