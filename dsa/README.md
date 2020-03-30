@@ -6,3 +6,4 @@
 - [二叉树后续遍历](https://www.geeksforgeeks.org/iterative-postorder-traversal/?ref=lbp)
 
 ## 算法
+- [翻转链表-递归](https://blog.csdn.net/Wu_ye123/article/details/88729736)
