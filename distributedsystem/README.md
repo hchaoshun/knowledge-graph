@@ -4,6 +4,7 @@
 - [什么是分布式系统，如何学习分布式系统](https://www.cnblogs.com/xybaby/p/7787034.html)
 - [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 - [FLP不可能原理/CAP原理/ACID原则](https://blog.csdn.net/bloodsuckerm/article/details/79851952)
+- [BASE理论](https://blog.csdn.net/jarniyy/article/details/93710088)
 - [分布式系统一致性 Linearizability vs. Sequential consistency](http://kaiyuan.me/2018/04/21/consistency-concept/)
 - [分布式系统：一致性模型](https://juejin.im/post/5c864435e51d45349224fa07)
 - [分布式系统：Lamport 逻辑时钟](https://juejin.im/post/5c54103b51882562c0494cc0)
