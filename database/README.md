@@ -17,7 +17,8 @@
 - [乐观锁与悲观锁](https://juejin.im/post/5b4977ae5188251b146b2fc8)
 - [innodb redo undo](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651961444&idx=1&sn=830a93eb74ca484cbcedb06e485f611e&chksm=bd2d0db88a5a84ae5865cd05f8c7899153d16ec7e7976f06033f4fbfbecc2fdee6e8b89bb17b&scene=21#wechat_redirect)
 - [MySQL最左前缀匹配](https://blog.csdn.net/SkySuperWL/article/details/52583579)
-- [MyISAM 和 INNODB的区别(注：innodb从5.6以后支持全文索引)](https://blog.csdn.net/itcats_cn/article/details/82154600?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+- [MyISAM 和 INNODB的区别(注：innodb从5.6以后支持全文索引)](https://blog.csdn.net/weixin_30834019/article/details/97562340?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3)
+- [MySQL 对于千万级的大表要怎么优化？](https://www.zhihu.com/question/19719997/answer/81930332)
 
 
 ## 非关系型数据库
