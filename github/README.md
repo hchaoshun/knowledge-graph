@@ -6,6 +6,7 @@ GitHub上的stars整理
 - [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
 - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 - [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)
+- [Go Interview Questions and Answers](https://github.com/goquiz/goquiz.github.io)
 - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 - [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
 - [剑指Offer——名企面试官精讲典型编程题](https://github.com/gatieme/CodingInterviews)
