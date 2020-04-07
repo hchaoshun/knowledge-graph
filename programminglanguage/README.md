@@ -15,7 +15,8 @@
 - [浅析 C++ 调用 Python 模块](https://blog.csdn.net/tobacco5648/article/details/50890106)
 - [c++访问python3-实例化类的方法](https://blog.csdn.net/love_clc/article/details/76653100)
 - [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
-- [Python 协程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017968846697824#0)
+- [Python教程 协程](https://www.liaoxuefeng.com/wiki/1016959663602400/1017968846697824#0)
+- [Python之协程](https://www.cnblogs.com/russellyoung/p/python-zhi-xie-cheng.html)
 
 ## C
 - [深入 char * ,char ** ,char a[ ] ,char *a[] 内核](https://blog.csdn.net/daiyutage/article/details/8604720?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
