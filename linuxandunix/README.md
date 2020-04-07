@@ -11,6 +11,7 @@ Linux/Unix和网络编程知识汇总
 - [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
 - [Linux惊群效应详解](https://blog.csdn.net/lyztyycode/article/details/78648798)
 - [进程与线程的区别联系](https://blog.csdn.net/cisco_huang/article/details/87191183)
+- [用户态和内核态的区别](https://www.jianshu.com/p/54a43b1119fe)
 
 
 ## 计算机网络
