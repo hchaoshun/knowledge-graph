@@ -23,4 +23,5 @@ Linux/Unix和网络编程知识汇总
 - [TCP第三次握手失败](https://www.cnblogs.com/heyonggang/p/3386415.html)
 - [TCP粘包、拆包问题](https://network.51cto.com/art/201910/604438.htm)
 - [http请求与响应全过程](https://blog.csdn.net/pmt123456/article/details/55216555)
+- [机器上出现大量time_wait怎么办](https://blog.csdn.net/fanren224/article/details/89849276)
 
