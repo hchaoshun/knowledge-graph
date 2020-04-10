@@ -27,3 +27,4 @@
 ## 高并发系统
 - [高并发系统设计 - 限流](https://www.jianshu.com/p/81b35f6778d9)
 - [3分钟视频看懂令牌桶算法](https://www.bilibili.com/video/av26168532/)
+- [3分钟视频看懂令牌桶算](https://segmentfault.com/a/1190000015559953)
