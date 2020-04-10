@@ -20,6 +20,7 @@
 - [MyISAM 和 INNODB的区别(注：innodb从5.6以后支持全文索引)](https://blog.csdn.net/weixin_30834019/article/details/97562340?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-3)
 - [MySQL 对于千万级的大表要怎么优化？](https://www.zhihu.com/question/19719997/answer/81930332)
 - [如何保障mysql和redis之间的数据一致性？](https://zhuanlan.zhihu.com/p/91770135)
+- [MySQL中的几种日志了解](https://www.cnblogs.com/myseries/p/10728533.html)
 
 
 ## 非关系型数据库
