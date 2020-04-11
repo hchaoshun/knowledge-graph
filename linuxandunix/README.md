@@ -10,6 +10,7 @@ Linux/Unix和网络编程知识汇总
 - [高并发的epoll+线程池](https://blog.csdn.net/libaineu2004/article/details/72822558)
 - [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
 - [Linux惊群效应详解](https://blog.csdn.net/lyztyycode/article/details/78648798)
+- [浅析Linux中的零拷贝技术](https://www.jianshu.com/p/fad3339e3448)
 
 
 ## 计算机网络
