@@ -10,6 +10,7 @@
 - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [MYSQL-索引](https://segmentfault.com/a/1190000003072424)
 - [数据库事务的四大特性（ACID）以及事务的隔离级别](https://blog.csdn.net/qq_25448409/article/details/78110430)
+- [mysql 如何设置事务隔离级别](https://jingyan.baidu.com/article/f25ef254891845482c1b8215.html)
 - [详解 MySql InnoDB 中意向锁的作用](https://juejin.im/post/5b85124f5188253010326360)
 - [MySQL 分库分表方案，总结的非常好](https://juejin.im/entry/5b5eb7f2e51d4519700f7d3c)
 - [Database Structure and Design Tutorial](https://www.lucidchart.com/pages/database-diagram/database-design)
