@@ -44,9 +44,6 @@
 
 ## Golang
 
-### Golang 官方blog
-- [Data Race Detect - The Go Programming language](https://golang.org/doc/articles/race_detector.html)
-
 - [Golang 之协程详解](https://www.cnblogs.com/liang1101/p/7285955.html)
 - [Golang 大杀器之性能剖析 PProf](https://segmentfault.com/a/1190000016412013)
 - [undefined (cannot refer to unexported field or method)](https://stackoverflow.com/questions/35811215/undefined-cannot-refer-to-unexported-field-or-method-in-golang/35811275)
@@ -58,6 +55,9 @@
 - [Golang面试题](https://www.kancloud.cn/cserli/golang/530431)
 - [Golang Label使用方法](https://www.jianshu.com/p/73fb21401d41)
 
+### Golang 官方blog
+- [Golang slices](https://blog.golang.org/slices-intro)
+- [Data Race Detect - The Go Programming language](https://golang.org/doc/articles/race_detector.html)
 
 ## Java
 - [JVM 的 工作原理，层次结构 以及 GC工作原理](https://segmentfault.com/a/1190000002579346)
