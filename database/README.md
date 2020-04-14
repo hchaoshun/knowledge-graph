@@ -22,6 +22,7 @@
 - [MySQL 对于千万级的大表要怎么优化？](https://www.zhihu.com/question/19719997/answer/81930332)
 - [如何保障mysql和redis之间的数据一致性？](https://zhuanlan.zhihu.com/p/91770135)
 - [MySQL中的几种日志了解](https://www.cnblogs.com/myseries/p/10728533.html)
+- [游标的作用和概念](https://www.cnblogs.com/WayneZeng/p/3352230.html)
 
 
 ## 非关系型数据库
