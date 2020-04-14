@@ -58,6 +58,7 @@
 ### Golang 官方blog
 - [Golang slices](https://blog.golang.org/slices-intro)
 - [Defer, Panic, and Recover](https://blog.golang.org/defer-panic-and-recover)
+- [The Laws of Reflection](https://blog.golang.org/laws-of-reflection)
 - [Data Race Detect - The Go Programming language](https://golang.org/doc/articles/race_detector.html)
 
 ## Java
