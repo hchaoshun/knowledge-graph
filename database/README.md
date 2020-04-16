@@ -23,6 +23,7 @@
 - [如何保障mysql和redis之间的数据一致性？](https://zhuanlan.zhihu.com/p/91770135)
 - [MySQL中的几种日志了解](https://www.cnblogs.com/myseries/p/10728533.html)
 - [游标的作用和概念](https://www.cnblogs.com/WayneZeng/p/3352230.html)
+- [SQL中Truncate的用法](https://www.cnblogs.com/zhoufangcheng04050227/p/7991759.html)
 
 
 ## 非关系型数据库
