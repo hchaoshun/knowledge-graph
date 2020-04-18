@@ -36,6 +36,7 @@
 - [C++11新特性之十：enable_shared_from_this](https://blog.csdn.net/caoshangpa/article/details/79392878)
 - [C++并发实战16: std::atomic原子操作](https://blog.csdn.net/liuxuejiang158blog/article/details/17413149)
 - [C++面试中STRING类的一种正确写法](https://coolshell.cn/articles/10478.html)
+- [C++ 内存对象布局](https://www.cnblogs.com/qg-whz/p/4909359.html)
 
 ## JavaScript
 - [Lodash tutorial](http://zetcode.com/javascript/lodash/)
