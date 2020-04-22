@@ -26,4 +26,5 @@ Linux/Unix和网络编程知识汇总
 - [http请求与响应全过程](https://blog.csdn.net/pmt123456/article/details/55216555)
 - [机器上出现大量time_wait怎么办](https://blog.csdn.net/fanren224/article/details/89849276)
 - [QQ为何采用UDP协议](https://blog.csdn.net/junjunba2689/article/details/82593124#comments)
+- [访问一个URL经历了哪些过程](https://blog.csdn.net/Myxyj/article/details/80027700?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1)
 
