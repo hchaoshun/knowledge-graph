@@ -38,6 +38,7 @@
 - [C++面试中STRING类的一种正确写法](https://coolshell.cn/articles/10478.html)
 - [C++ 内存对象布局](https://www.cnblogs.com/qg-whz/p/4909359.html)
 - [C++ 模板的全特化与偏特化](https://www.cnblogs.com/xuelisheng/p/9323853.html)
+- [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
 
 ## JavaScript
 - [Lodash tutorial](http://zetcode.com/javascript/lodash/)
