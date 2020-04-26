@@ -28,5 +28,5 @@
 - [高并发系统设计 - 限流](https://www.jianshu.com/p/81b35f6778d9)
 - [3分钟视频看懂令牌桶算法](https://www.bilibili.com/video/av26168532/)
 - [3分钟视频看懂令牌桶算](https://segmentfault.com/a/1190000015559953)
-- [如何设计秒杀系统](https://www.zhihu.com/question/54895548/answer/923987542)
+- [如何设计秒杀系统](https://blog.csdn.net/CSDN_Terence/article/details/77744042)
 - [布隆过滤器的原理](https://zhuanlan.zhihu.com/p/43263751)
