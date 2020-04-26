@@ -45,5 +45,4 @@
 - [Redis官方亲儿子，RedisCluster是怎么一回事](https://baijiahao.baidu.com/s?id=1643461909684941861&wfr=spider&for=pc)
 - [Redis缓存穿透和缓存雪崩](https://baijiahao.baidu.com/s?id=1655304940308056733&wfr=spider&for=pc)
 - [Redis 排行榜 相同分数根据时间优先排行](https://blog.csdn.net/zeus_9i/article/details/51025175)
-
-
+- [Redis缓存和MySQL数据一致性方案详解](https://my.oschina.net/jiagouzhan/blog/2990423)
