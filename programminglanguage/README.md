@@ -42,6 +42,8 @@
 - [C++ 模板的全特化与偏特化](https://www.cnblogs.com/xuelisheng/p/9323853.html)
 - [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
 - [Placement new operator in C++](https://www.geeksforgeeks.org/placement-new-operator-cpp/)
+- [在构造函数中调用虚函数](https://blog.csdn.net/songchuwang1868/article/details/96481853)
+- [gdb调试多线程](https://blog.csdn.net/zhangye3017/article/details/80382496)
 
 
 ## JavaScript
