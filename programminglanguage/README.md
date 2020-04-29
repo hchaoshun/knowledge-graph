@@ -44,6 +44,7 @@
 - [Placement new operator in C++](https://www.geeksforgeeks.org/placement-new-operator-cpp/)
 - [在构造函数中调用虚函数](https://blog.csdn.net/songchuwang1868/article/details/96481853)
 - [gdb调试多线程](https://blog.csdn.net/zhangye3017/article/details/80382496)
+- [c++ resize&reserve](https://blog.csdn.net/qq_41598072/article/details/100015213)
 
 
 ## JavaScript
