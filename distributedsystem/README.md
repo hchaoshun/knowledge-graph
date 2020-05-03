@@ -28,5 +28,9 @@
 - [高并发系统设计 - 限流](https://www.jianshu.com/p/81b35f6778d9)
 - [3分钟视频看懂令牌桶算法](https://www.bilibili.com/video/av26168532/)
 - [3分钟视频看懂令牌桶算](https://segmentfault.com/a/1190000015559953)
-- [如何设计秒杀系统](https://blog.csdn.net/CSDN_Terence/article/details/77744042)
 - [布隆过滤器的原理](https://zhuanlan.zhihu.com/p/43263751)
+
+### 示例
+- [如何设计秒杀系统](https://blog.csdn.net/CSDN_Terence/article/details/77744042)
+- [朋友圈的设计及实现](https://blog.csdn.net/u011035407/article/details/78592787)
+- [滴滴打车系统](https://blog.csdn.net/qq_39683463/article/details/87970951)
