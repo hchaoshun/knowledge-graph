@@ -6,6 +6,7 @@
 - [二叉树后续遍历](https://www.geeksforgeeks.org/iterative-postorder-traversal/?ref=lbp)
 - [哈希表和红黑树的对比](https://blog.csdn.net/ljlstart/article/details/51335687?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 - [LSM树 VS B+树](https://blog.csdn.net/iteye_14608/article/details/82507468?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4)
+- [Trie(Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
 
 ## 算法
 - [翻转链表-递归](https://blog.csdn.net/Wu_ye123/article/details/88729736)

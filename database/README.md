@@ -27,7 +27,7 @@
 - [InnoDB Gap锁](https://amsimple.com/blog/article/72.html)
 - [为什么要使用自增ID作为主键](https://www.cnblogs.com/lanqi/p/10185172.html)
 
-
+  
 ## 非关系型数据库
 - [Explanation of BASE terminology](https://stackoverflow.com/questions/3342497/explanation-of-base-terminology)
 
