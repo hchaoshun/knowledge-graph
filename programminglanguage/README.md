@@ -31,6 +31,7 @@
 - [C++ 内存对齐](https://www.cnblogs.com/TenosDoIt/p/3590491.html)
 - [C++中前置声明和头文件包含](https://blog.csdn.net/EmSoftEn/article/details/50374232)
 - [The virtual table](https://www.learncpp.com/cpp-tutorial/125-the-virtual-table/)
+- [C++多态虚函数表详解(多重继承、多继承情况)](https://blog.csdn.net/qq_36359022/article/details/81870219)
 - [C++虚函数 - 静态函数能否为虚函数](https://www.cnblogs.com/lakeone/p/5967548.html)
 - [C++继承：公有，私有，保护](https://www.cnblogs.com/qlwy/archive/2011/08/25/2153584.html)
 - [谈谈 C/C++ 中的 volatile](https://liam.page/2018/01/18/volatile-in-C-and-Cpp/)
