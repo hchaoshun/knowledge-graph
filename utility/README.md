@@ -9,6 +9,7 @@
 
 ### cmake
 - [CMake 入门实战](https://www.hahack.com/codes/cmake/)
+- [Cmake语句find_package()函数](https://blog.csdn.net/sen873591769/article/details/90183015)
 
 ##类库
 
