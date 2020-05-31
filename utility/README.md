@@ -15,3 +15,4 @@
 
 ### Cpp
 - [gFlags 使用指南](https://www.jianshu.com/p/2179938a818d)
+- [folly教程系列之：future/promise](https://www.cnblogs.com/chenyangyao/p/folly-future.html)
