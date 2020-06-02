@@ -28,6 +28,7 @@ GitHub上的stars整理
 - [Learn Spring Security OAuth](https://github.com/eugenp/tutorials)
 - [简洁易用的C++11网络库](https://github.com/yedf/handy)
 - [Cpp Primer Answers](https://github.com/Mooophy/Cpp-Primer)
+- [cmake-examples](https://github.com/ttroy50/cmake-examples)
 
 ## 常用库
 - [faiss](https://github.com/facebookresearch/faiss)
