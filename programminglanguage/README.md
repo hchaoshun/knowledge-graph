@@ -47,6 +47,7 @@
 - [gdb调试多线程](https://blog.csdn.net/zhangye3017/article/details/80382496)
 - [c++ resize&reserve](https://blog.csdn.net/qq_41598072/article/details/100015213)
 - [vector内存增长模式](https://blog.csdn.net/qq_26849233/article/details/70738621)
+- [深入理解C++中的mutable关键字](https://blog.csdn.net/AAA123524457/article/details/80967330?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
 
 
 ## JavaScript
