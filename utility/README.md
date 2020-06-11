@@ -14,6 +14,7 @@
 - [CMake 入门实战](https://www.hahack.com/codes/cmake/)
 - [Cmake语句find_package()函数](https://blog.csdn.net/sen873591769/article/details/90183015)
 - [cmake：添加自定义操作add_custom_command()](https://zhuanlan.zhihu.com/p/95771200)
+- [include_directories和find_package](https://blog.csdn.net/weixin_39393741/article/details/85070299)
 
 ### gcc
 - [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
