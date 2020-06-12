@@ -1,6 +1,8 @@
 # 推荐系统
 推荐系统知识汇总
 
+- [一文带你掌握推荐系统](http://www.chanpin100.com/article/108436)
+
 ## 个性化排序
 - [个性化推荐排序详解](https://www.jianshu.com/p/1fd2b97fc765)
 
