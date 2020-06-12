@@ -8,6 +8,7 @@
 - [编程语言](https://github.com/hchaoshun/knowledge-graph/tree/master/programminglanguage)
 - [操作系统](https://github.com/hchaoshun/knowledge-graph/tree/master/operatesystem)
 - [Unix/Linux和网络](https://github.com/hchaoshun/knowledge-graph/tree/master/linuxandunix)
+- [推荐系统](https://github.com/hchaoshun/knowledge-graph/tree/master/recommendation)
 - [GitHub Stars](https://github.com/hchaoshun/knowledge-graph/tree/master/github)
 - [工具](https://github.com/hchaoshun/knowledge-graph/tree/master/utility)
 - [编程杂烩](https://github.com/hchaoshun/knowledge-graph/tree/master/programingchowder)
