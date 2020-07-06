@@ -49,6 +49,7 @@
 - [vector内存增长模式](https://blog.csdn.net/qq_26849233/article/details/70738621)
 - [深入理解C++中的mutable关键字](https://blog.csdn.net/AAA123524457/article/details/80967330?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
 - [STL之partial_sort排序](https://blog.csdn.net/jfkidear/article/details/8922974)
+- [C++17: shared_mutex](https://en.cppreference.com/w/cpp/thread/shared_mutex)
 
 
 ## JavaScript
