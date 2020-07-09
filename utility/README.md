@@ -26,3 +26,6 @@
 ### Cpp
 - [gFlags 使用指南](http://dreamrunner.org/blog/2014/03/09/gflags-jian-ming-shi-yong/)
 - [folly教程系列之：future/promise](https://www.cnblogs.com/chenyangyao/p/folly-future.html)
+
+### Json
+- [JSON for Modern C++](https://github.com/nlohmann/json)
