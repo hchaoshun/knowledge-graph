@@ -17,5 +17,6 @@
 
 ## AB Test
 - [AB测试](https://baike.baidu.com/item/AB%E6%B5%8B%E8%AF%95)
+- [一文搞懂AB Testing的分层分流](http://www.woshipm.com/pd/1080730.html)
 - [数据埋点](https://www.zhihu.com/question/36411025)
 
