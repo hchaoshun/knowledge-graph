@@ -7,6 +7,7 @@
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
 - [CTR预估解析](https://www.meihua.info/a/72378)
+- [关于UGC、PGC、OGC三者详细区别！](https://zhuanlan.zhihu.com/p/35596590)
 - [灰度测试是什么意思](http://www.appadhoc.com/blog/what-is-grey-release/)
 
 ## 特征工程
