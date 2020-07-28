@@ -18,6 +18,9 @@
 - [cmake：添加自定义操作add_custom_command()](https://zhuanlan.zhihu.com/p/95771200)
 - [include_directories和find_package](https://blog.csdn.net/weixin_39393741/article/details/85070299)
 
+### Makefile
+- [Make 命令教程](https://www.ruanyifeng.com/blog/2015/02/make.html)
+
 ### gcc
 - [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
 - [LD_LIBRARY_PATH详解](https://www.jianshu.com/p/a62e1d327023)
