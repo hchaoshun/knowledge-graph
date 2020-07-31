@@ -17,6 +17,7 @@
 - [Cmake语句find_package()函数](https://blog.csdn.net/sen873591769/article/details/90183015)
 - [cmake：添加自定义操作add_custom_command()](https://zhuanlan.zhihu.com/p/95771200)
 - [include_directories和find_package](https://blog.csdn.net/weixin_39393741/article/details/85070299)
+- [cmake中的include指令](https://blog.csdn.net/qq_38410730/article/details/102677143)
 
 ### Makefile
 - [Make 命令教程](https://www.ruanyifeng.com/blog/2015/02/make.html)
