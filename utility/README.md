@@ -21,6 +21,7 @@
 
 ### Makefile
 - [Make 命令教程](https://www.ruanyifeng.com/blog/2015/02/make.html)
+- [Makefile 中:= ?= += =的区别](https://www.cnblogs.com/wanqieddy/archive/2011/09/21/2184257.html)
 
 ### gcc
 - [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
