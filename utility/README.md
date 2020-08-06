@@ -9,6 +9,7 @@
 ## git
 - [删除git库中untracked files（未监控）的文件](https://blog.csdn.net/RonnyJiang/article/details/53507306)
 - [git blame的详细用法](https://blog.csdn.net/wq6ylg08/article/details/88909813)
+- [Git submodule 子模块的管理和使用](https://www.jianshu.com/p/9000cd49822c)
 
 ## cpp工具
 
