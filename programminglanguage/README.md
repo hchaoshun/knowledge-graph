@@ -51,6 +51,9 @@
 - [STL之partial_sort排序](https://blog.csdn.net/jfkidear/article/details/8922974)
 - [C++17: shared_mutex](https://en.cppreference.com/w/cpp/thread/shared_mutex)
 
+### c++11以后的新特性
+- [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
+
 
 ## JavaScript
 - [Lodash tutorial](http://zetcode.com/javascript/lodash/)
