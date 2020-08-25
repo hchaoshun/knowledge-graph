@@ -9,6 +9,7 @@
 - [CTR预估解析](https://www.meihua.info/a/72378)
 - [关于UGC、PGC、OGC三者详细区别！](https://zhuanlan.zhihu.com/p/35596590)
 - [灰度测试是什么意思](http://www.appadhoc.com/blog/what-is-grey-release/)
+- [如何清楚易懂的解释“UV和PV＂的定义？](https://www.zhihu.com/question/20448467)
 
 ## 特征工程
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
