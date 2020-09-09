@@ -22,3 +22,6 @@
 - [一文搞懂AB Testing的分层分流](http://www.woshipm.com/pd/1080730.html)
 - [数据埋点](https://www.zhihu.com/question/36411025)
 
+## 工程常识
+- [第95个百分位（95th percentile）是什么概念？](https://www.zhihu.com/question/20575291)
+
