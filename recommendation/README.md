@@ -25,3 +25,6 @@
 ## 工程常识
 - [第95个百分位（95th percentile）是什么概念？](https://www.zhihu.com/question/20575291)
 
+## 数据仓库
+- [数据库 与 数据仓库的本质区别是什么？](https://www.zhihu.com/question/20623931)
+
