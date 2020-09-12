@@ -42,6 +42,7 @@
 - [C++ 内存对象布局](https://www.cnblogs.com/qg-whz/p/4909359.html)
 - [C++ 模板的全特化与偏特化](https://www.cnblogs.com/xuelisheng/p/9323853.html)
 - [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
+- [operator new](http://www.cplusplus.com/reference/new/operator%20new/)
 - [Placement new operator in C++](https://www.geeksforgeeks.org/placement-new-operator-cpp/)
 - [在构造函数中调用虚函数](https://blog.csdn.net/songchuwang1868/article/details/96481853)
 - [gdb调试多线程](https://blog.csdn.net/zhangye3017/article/details/80382496)
