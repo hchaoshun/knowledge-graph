@@ -16,7 +16,7 @@ Linux/Unix和网络编程知识汇总
 
 ## 计算机网络
 - [图解Https连接过程](https://blog.csdn.net/jinrumorijuesha/article/details/79655561)
-- [正向代理与反向代理的区别](https://www.jianshu.com/p/208c02c9dd1d)
+- [正向代理与反向代理的区别](https://cloud.tencent.com/developer/article/1418457)
 - [TCP的流量控制和拥塞控制](https://blog.csdn.net/yechaodechuntian/article/details/25429143)
 - [一篇文章让你入门HTTP2.0](https://segmentfault.com/a/1190000016656529)
 - [Cookie 与 Session 的区别](https://juejin.im/entry/5766c29d6be3ff006a31b84e)
