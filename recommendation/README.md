@@ -3,6 +3,7 @@
 
 - [一文带你掌握推荐系统](http://www.chanpin100.com/article/108436)
 - [推荐系统 I 关于推荐策略的整理与思考](https://www.iambigboss.top/post/49420_1_1.html)
+- [23张图，带你入门推荐系统](https://mp.weixin.qq.com/s/d6bCGT8B4h5pfI77TvLicA)
 
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
