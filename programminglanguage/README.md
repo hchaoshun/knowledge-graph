@@ -42,6 +42,7 @@
 - [C++ 内存对象布局](https://www.cnblogs.com/qg-whz/p/4909359.html)
 - [C++ 模板的全特化与偏特化](https://www.cnblogs.com/xuelisheng/p/9323853.html)
 - [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
+- [operator new](http://www.cplusplus.com/reference/new/operator%20new/)
 - [Placement new operator in C++](https://www.geeksforgeeks.org/placement-new-operator-cpp/)
 - [在构造函数中调用虚函数](https://blog.csdn.net/songchuwang1868/article/details/96481853)
 - [gdb调试多线程](https://blog.csdn.net/zhangye3017/article/details/80382496)
@@ -50,6 +51,11 @@
 - [深入理解C++中的mutable关键字](https://blog.csdn.net/AAA123524457/article/details/80967330?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
 - [STL之partial_sort排序](https://blog.csdn.net/jfkidear/article/details/8922974)
 - [C++17: shared_mutex](https://en.cppreference.com/w/cpp/thread/shared_mutex)
+- [Nested Classes in C++](https://www.geeksforgeeks.org/nested-classes-in-c/)
+- [C++中构造函数和析构函数抛出异常问题](https://blog.csdn.net/u012611878/article/details/78945586)
+
+### c++11以后的新特性
+- [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
 
 
 ## JavaScript
