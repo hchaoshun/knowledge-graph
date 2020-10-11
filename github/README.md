@@ -33,3 +33,4 @@ GitHub上的stars整理
 
 ## 常用库
 - [faiss](https://github.com/facebookresearch/faiss)
+- [folly](https://github.com/facebook/folly)
