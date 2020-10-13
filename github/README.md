@@ -22,7 +22,6 @@ GitHub上的stars整理
 - [Python 练习册，每天一个小程序](https://github.com/Yixiaohan/show-me-the-code)
 - [Roadmap to becoming a Go developer in 2019](https://github.com/Alikhll/golang-developer-roadmap)
 - [A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
-- [计算机技术类书籍 PDF](https://github.com/huihut/CS-Books/tree/master)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [Learn Spring Security OAuth](https://github.com/eugenp/tutorials)
@@ -30,6 +29,10 @@ GitHub上的stars整理
 - [Cpp Primer Answers](https://github.com/Mooophy/Cpp-Primer)
 - [cmake-examples](https://github.com/ttroy50/cmake-examples)
 - [TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)
+
+## 资料
+- [计算机技术类书籍 PDF](https://github.com/huihut/CS-Books/tree/master)
+
 
 ## 常用库
 - [faiss](https://github.com/facebookresearch/faiss)
