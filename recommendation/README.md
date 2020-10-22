@@ -11,6 +11,7 @@
 - [关于UGC、PGC、OGC三者详细区别！](https://zhuanlan.zhihu.com/p/35596590)
 - [灰度测试是什么意思](http://www.appadhoc.com/blog/what-is-grey-release/)
 - [如何清楚易懂的解释“UV和PV＂的定义？](https://www.zhihu.com/question/20448467)
+- [小视频向左，短视频向右：快手们时长限制背后的逻辑](http://www.woshipm.com/it/813398.html)
 
 ## 特征工程
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
