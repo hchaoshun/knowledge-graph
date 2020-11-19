@@ -5,6 +5,9 @@
 - [推荐系统 I 关于推荐策略的整理与思考](https://www.iambigboss.top/post/49420_1_1.html)
 - [23张图，带你入门推荐系统](https://mp.weixin.qq.com/s/d6bCGT8B4h5pfI77TvLicA)
 
+## 算法
+- [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
+
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
 - [CTR预估解析](https://www.meihua.info/a/72378)
