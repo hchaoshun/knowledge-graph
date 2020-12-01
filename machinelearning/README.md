@@ -8,4 +8,8 @@
 - [反向传播算法](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll?hl=zh-cn)
 - [What is the difference between linear regression and logistic regression?](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression)
 - [线性回归与逻辑回归的区别](https://blog.csdn.net/likewind1993/article/details/84196135)
+
+## TensorFlow
+
 - [Simple Linear Regression Using TensorFlow and Keras](https://www.machinelearningmindset.com/linear-regression-with-tensorflow/)
+- [Top-5 Painless Data Augmentation Techniques With TensorFlow](https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/#dataset)
