@@ -32,3 +32,6 @@ Linux/Unix和网络编程知识汇总
 - [what is the relationship between http connection and request
 ](https://stackoverflow.com/questions/34034341/what-is-the-relationship-between-http-connection-and-request#:~:text=HTTP%20connections%20%2D%20client%20and%20server,a%20connection%20with%20the%20server.)
 
+
+### gRPC
+- [gRPC的重试策略](https://zhuanlan.zhihu.com/p/73747546)
