@@ -29,4 +29,6 @@ Linux/Unix和网络编程知识汇总
 - [QQ为何采用UDP协议](https://blog.csdn.net/junjunba2689/article/details/82593124#comments)
 - [访问一个URL经历了哪些过程](https://blog.csdn.net/Myxyj/article/details/80027700?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1)
 - [TCP和UDP监听相同端口](https://blog.51cto.com/12083623/2362539)
+- [what is the relationship between http connection and request
+](https://stackoverflow.com/questions/34034341/what-is-the-relationship-between-http-connection-and-request#:~:text=HTTP%20connections%20%2D%20client%20and%20server,a%20connection%20with%20the%20server.)
 
