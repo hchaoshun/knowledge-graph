@@ -30,6 +30,7 @@ GitHub上的stars整理
 - [cmake-examples](https://github.com/ttroy50/cmake-examples)
 - [TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [Machine Learning](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
 ## 资料
 - [计算机技术类书籍 PDF](https://github.com/huihut/CS-Books/tree/master)
