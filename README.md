@@ -13,5 +13,6 @@
 - [GitHub Stars](https://github.com/hchaoshun/knowledge-graph/tree/master/github)
 - [工具](https://github.com/hchaoshun/knowledge-graph/tree/master/utility)
 - [编程杂烩](https://github.com/hchaoshun/knowledge-graph/tree/master/programingchowder)
-
+- [机器学习](https://github.com/hchaoshun/knowledge-graph/tree/master/machinelearning)
+- [数学](https://github.com/hchaoshun/knowledge-graph/tree/master/mathematics)
 
