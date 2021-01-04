@@ -21,6 +21,9 @@
 ## 特征工程
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
 
+## 召回
+- [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
+
 ## 个性化排序
 - [个性化推荐排序详解](https://www.jianshu.com/p/1fd2b97fc765)
 - [推荐系统评测指标](https://blog.csdn.net/checkche/article/details/84673650?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param)
