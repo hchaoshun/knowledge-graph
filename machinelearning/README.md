@@ -6,6 +6,7 @@
 - [如何简单形象又有趣地讲解神经网络是什么？](https://www.zhihu.com/question/22553761)
 - [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 - [反向传播算法](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll?hl=zh-cn)
+- [如何直观地解释 backpropagation 算法？](https://www.zhihu.com/question/27239198/answer/89853077)
 - [What is the difference between linear regression and logistic regression?](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression)
 - [线性回归与逻辑回归的区别](https://blog.csdn.net/likewind1993/article/details/84196135)
 
