@@ -20,6 +20,7 @@
 
 ## 特征工程
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
+- [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction)
 
 ## 召回
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
