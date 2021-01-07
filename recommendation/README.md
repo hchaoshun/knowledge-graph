@@ -38,4 +38,5 @@
 
 ## 数据仓库
 - [数据库 与 数据仓库的本质区别是什么？](https://www.zhihu.com/question/20623931)
+- [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load#:~:text=In%20computing%2C%20extract%2C%20transform%2C,than%20the%20source(s).)
 
