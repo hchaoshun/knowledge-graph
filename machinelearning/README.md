@@ -11,6 +11,9 @@
 - [What is the difference between linear regression and logistic regression?](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression)
 - [线性回归与逻辑回归的区别](https://blog.csdn.net/likewind1993/article/details/84196135)
 
+## 神经网络
+- [神经网络讲解视频](https://space.bilibili.com/88461692/channel/detail?cid=26587)
+
 ## TensorFlow
 
 - [Simple Linear Regression Using TensorFlow and Keras](https://www.machinelearningmindset.com/linear-regression-with-tensorflow/)
