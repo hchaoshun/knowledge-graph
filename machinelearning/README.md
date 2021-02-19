@@ -19,3 +19,6 @@
 
 - [Simple Linear Regression Using TensorFlow and Keras](https://www.machinelearningmindset.com/linear-regression-with-tensorflow/)
 - [Top-5 Painless Data Augmentation Techniques With TensorFlow](https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/#dataset)
+
+## 强化学习
+- [强化学习-Reinforcement learning | RL]https://easyai.tech/ai-definition/reinforcement-learning/
