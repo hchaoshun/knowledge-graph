@@ -8,6 +8,10 @@
 ## 算法
 - [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
 
+## 推荐系统模型
+### 传统模型
+- [FM（Factorization Machines）的理论与实践](https://zhuanlan.zhihu.com/p/50426292)
+
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
 - [CTR预估解析](https://www.meihua.info/a/72378)
