@@ -12,6 +12,9 @@
 - [What is the difference between linear regression and logistic regression?](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression)
 - [线性回归与逻辑回归的区别](https://blog.csdn.net/likewind1993/article/details/84196135)
 
+## 机器学习算法
+- [决策树](https://easyai.tech/ai-definition/decision-tree/#:~:text=%E9%A2%84%E6%B5%8B%E6%97%B6%EF%BC%8C%E5%9C%A8%E6%A0%91%E7%9A%84,%E6%80%9D%E7%BB%B4%EF%BC%8C%E6%9C%89%E7%9D%80%E5%B9%BF%E6%B3%9B%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82)
+
 ## 神经网络
 - [神经网络讲解视频](https://space.bilibili.com/88461692/channel/detail?cid=26587)
 
