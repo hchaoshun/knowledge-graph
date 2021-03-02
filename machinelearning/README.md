@@ -14,7 +14,7 @@
 
 ## 机器学习算法
 - [决策树](https://easyai.tech/ai-definition/decision-tree/#:~:text=%E9%A2%84%E6%B5%8B%E6%97%B6%EF%BC%8C%E5%9C%A8%E6%A0%91%E7%9A%84,%E6%80%9D%E7%BB%B4%EF%BC%8C%E6%9C%89%E7%9D%80%E5%B9%BF%E6%B3%9B%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82)
-- [决策树 – Decision tree](https://easyai.tech/ai-definition/random-forest/#:~:text=%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E6%88%96%E9%9A%8F%E6%9C%BA%E5%86%B3%E7%AD%96,%E5%85%B6%E8%AE%AD%E7%BB%83%E9%9B%86%E7%9A%84%E4%B9%A0%E6%83%AF%E3%80%82)
+- [随机森林 – Random forest](https://easyai.tech/ai-definition/random-forest/)
 
 ## 神经网络
 - [神经网络讲解视频](https://space.bilibili.com/88461692/channel/detail?cid=26587)
