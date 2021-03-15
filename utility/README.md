@@ -42,6 +42,7 @@
 
 ### Linux命令
 - [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
+- [Guide to Linux jq Command for JSON Processing](https://www.baeldung.com/linux/jq-command-json)
 
 ## 测试工具
 
