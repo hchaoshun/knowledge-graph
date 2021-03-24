@@ -11,6 +11,7 @@
 ## 推荐系统模型
 ### 传统模型
 - [FM（Factorization Machines）的理论与实践](https://zhuanlan.zhihu.com/p/50426292)
+- [谈谈因子分解机模型（FM）](https://liam.page/2019/03/25/Factorization-Machine/)
 
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
