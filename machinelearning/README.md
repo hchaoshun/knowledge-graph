@@ -16,7 +16,7 @@
 - [决策树](https://easyai.tech/ai-definition/decision-tree/#:~:text=%E9%A2%84%E6%B5%8B%E6%97%B6%EF%BC%8C%E5%9C%A8%E6%A0%91%E7%9A%84,%E6%80%9D%E7%BB%B4%EF%BC%8C%E6%9C%89%E7%9D%80%E5%B9%BF%E6%B3%9B%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82)
 - [随机森林 – Random forest](https://easyai.tech/ai-definition/random-forest/)
 - [GBDT：梯度提升决策树](https://www.jianshu.com/p/005a4e6ac775)
-- [KNN算法](https://blog.csdn.net/saltriver/article/details/52502253#:~:text=K%E6%9C%80%E8%BF%91%E9%82%BB(k%2DNearest,%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%EF%BC%8C%E6%B2%A1%E6%9C%89%E4%B9%8B%E4%B8%80%E3%80%82&text=%E8%AF%A5%E7%AE%97%E6%B3%95%E7%9A%84%E6%80%9D%E6%83%B3%E6%98%AF,%E6%A0%B7%E6%9C%AC%E4%B9%9F%E5%B1%9E%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%B1%BB%E5%88%AB%E3%80%82)
+- [KNN算法](https://blog.csdn.net/saltriver/article/details/52502253)
 ## 神经网络
 - [神经网络讲解视频](https://space.bilibili.com/88461692/channel/detail?cid=26587)
 
