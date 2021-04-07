@@ -7,6 +7,7 @@
 - [S型函数](https://blog.csdn.net/qq_35551200/article/details/79200706)
 
 ## 概率论与数理统计
+- [期望值](https://zh.wikipedia.org/wiki/%E6%9C%9F%E6%9C%9B%E5%80%BC)
 - [贝叶斯公式入门理解](http://www.twistedwg.com/2018/05/05/Bayes-basic-rule.html)
 - [贝叶斯公式](https://baike.baidu.com/item/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F#:~:text=%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AE%9A%E7%90%86%E7%94%B1,P(A%7CB)%E3%80%82)
 
