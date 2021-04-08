@@ -55,6 +55,7 @@
 - [C++中构造函数和析构函数抛出异常问题](https://blog.csdn.net/u012611878/article/details/78945586)
 - [C++ 两个类头文件互相引用](https://blog.csdn.net/qq_22488067/article/details/73195621)
 - [push_back vs emplace_back](https://stackoverflow.com/questions/4303513/push-back-vs-emplace-back)
+- [Difference in make_shared and normal shared_ptr in C++](https://stackoverflow.com/a/20895705/7130602)
 
 ### c++11以后的新特性
 - [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
