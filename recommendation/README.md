@@ -29,6 +29,7 @@
 
 ## 召回
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
+- [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 
 ## 个性化排序
 - [个性化推荐排序详解](https://www.jianshu.com/p/1fd2b97fc765)
