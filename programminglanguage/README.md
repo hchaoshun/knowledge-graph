@@ -56,6 +56,7 @@
 - [C++ 两个类头文件互相引用](https://blog.csdn.net/qq_22488067/article/details/73195621)
 - [push_back vs emplace_back](https://stackoverflow.com/questions/4303513/push-back-vs-emplace-back)
 - [Difference in make_shared and normal shared_ptr in C++](https://stackoverflow.com/a/20895705/7130602)
+- [PImpl Idiom in C++](https://www.geeksforgeeks.org/pimpl-idiom-in-c-with-examples/)
 
 ### c++11以后的新特性
 - [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
