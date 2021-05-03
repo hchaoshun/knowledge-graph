@@ -33,6 +33,7 @@ GitHub上的stars整理
 - [Machine Learning](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 - [HsuanTienLin_MachineLearning](https://github.com/RedstoneWill/HsuanTienLin_MachineLearning)
 - [PumpkinBook](https://github.com/datawhalechina/pumpkin-book)
+- [机器学习实战](https://github.com/Jack-Cherish/Machine-Learning)
 
 ## 资料
 - [计算机技术类书籍 PDF](https://github.com/huihut/CS-Books/tree/master)
