@@ -14,7 +14,6 @@
 - [决策树](https://easyai.tech/ai-definition/decision-tree/#:~:text=%E9%A2%84%E6%B5%8B%E6%97%B6%EF%BC%8C%E5%9C%A8%E6%A0%91%E7%9A%84,%E6%80%9D%E7%BB%B4%EF%BC%8C%E6%9C%89%E7%9D%80%E5%B9%BF%E6%B3%9B%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82)
 - [随机森林 – Random forest](https://easyai.tech/ai-definition/random-forest/)
 - [GBDT：梯度提升决策树](https://www.jianshu.com/p/005a4e6ac775)
-- [机器学习算法之——梯度提升（Gradient Boosting）原理讲解及Python实现](https://zhuanlan.zhihu.com/p/108641227#:~:text=GBDT(Gradient%20Boosting%20Decision%20Tree,%E7%B4%AF%E5%8A%A0%E8%B5%B7%E6%9D%A5%E5%81%9A%E6%9C%80%E7%BB%88%E7%AD%94%E6%A1%88%E3%80%82)
 - [机器学习 | 详解GBDT梯度提升树原理，看完再也不怕面试了](https://zhuanlan.zhihu.com/p/169568445)
 - [KNN算法](https://blog.csdn.net/saltriver/article/details/52502253)
 ## 神经网络
