@@ -34,3 +34,7 @@
 - [如何设计秒杀系统](https://blog.csdn.net/CSDN_Terence/article/details/77744042)
 - [朋友圈的设计及实现](https://blog.csdn.net/u011035407/article/details/78592787)
 - [滴滴打车系统](https://blog.csdn.net/qq_39683463/article/details/87970951)
+
+## 大数据
+
+- [如何用形象的比喻描述大数据的技术生态？](https://www.zhihu.com/question/27974418)
