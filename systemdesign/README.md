@@ -7,3 +7,6 @@
 ## RPC
 - [如何优雅地重试](https://mp.weixin.qq.com/s/6IkTnUbBlHjM3GM_bT35tA)
 
+## 设计模式
+- [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
+
