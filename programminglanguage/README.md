@@ -63,6 +63,7 @@
 
 ### c++11以后的新特性
 - [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
+- [C++ 原子操作CAS和lockless无锁队列](https://blog.csdn.net/qq_34999565/article/details/114483245)
 
 
 ## JavaScript
