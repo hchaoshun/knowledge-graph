@@ -45,6 +45,7 @@
 
 ## 工程常识
 - [第95个百分位（95th percentile）是什么概念？](https://www.zhihu.com/question/20575291)
+- [推荐系统的实时性](https://zhuanlan.zhihu.com/p/74813776)
 
 ## 数据仓库
 - [数据库 与 数据仓库的本质区别是什么？](https://www.zhihu.com/question/20623931)
