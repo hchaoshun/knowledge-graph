@@ -50,6 +50,7 @@
 - [数据库 与 数据仓库的本质区别是什么？](https://www.zhihu.com/question/20623931)
 - [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load#:~:text=In%20computing%2C%20extract%2C%20transform%2C,than%20the%20source(s).)
 - [Airflow快速学习入门](https://segmentfault.com/a/1190000039923621?utm_source=tag-newest)
+- [什么是实时数仓](https://mp.weixin.qq.com/s/8SdXPbntu6IUXZxLf9kGcw)
 
 ## 业界推荐系统
 - [微信「看一看」 推荐排序技术揭秘](https://www.jiqizhixin.com/articles/2020-07-21-16)
