@@ -36,13 +36,9 @@
 - [C++虚函数 - 静态函数能否为虚函数](https://www.cnblogs.com/lakeone/p/5967548.html)
 - [C++继承：公有，私有，保护](https://www.cnblogs.com/qlwy/archive/2011/08/25/2153584.html)
 - [谈谈 C/C++ 中的 volatile](https://liam.page/2018/01/18/volatile-in-C-and-Cpp/)
-- [c++11之weak_ptr 使用介绍](https://blog.csdn.net/c_base_jin/article/details/79440999)
-- [C++11新特性之十：enable_shared_from_this](https://blog.csdn.net/caoshangpa/article/details/79392878)
-- [C++并发实战16: std::atomic原子操作](https://blog.csdn.net/liuxuejiang158blog/article/details/17413149)
 - [C++面试中STRING类的一种正确写法](https://coolshell.cn/articles/10478.html)
 - [C++ 内存对象布局](https://www.cnblogs.com/qg-whz/p/4909359.html)
 - [C++ 模板的全特化与偏特化](https://www.cnblogs.com/xuelisheng/p/9323853.html)
-- [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
 - [operator new](http://www.cplusplus.com/reference/new/operator%20new/)
 - [Placement new operator in C++](https://www.geeksforgeeks.org/placement-new-operator-cpp/)
 - [在构造函数中调用虚函数](https://blog.csdn.net/songchuwang1868/article/details/96481853)
@@ -51,7 +47,6 @@
 - [vector内存增长模式](https://blog.csdn.net/qq_26849233/article/details/70738621)
 - [深入理解C++中的mutable关键字](https://blog.csdn.net/AAA123524457/article/details/80967330?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
 - [STL之partial_sort排序](https://blog.csdn.net/jfkidear/article/details/8922974)
-- [C++17: shared_mutex](https://en.cppreference.com/w/cpp/thread/shared_mutex)
 - [Nested Classes in C++](https://www.geeksforgeeks.org/nested-classes-in-c/)
 - [C++中构造函数和析构函数抛出异常问题](https://blog.csdn.net/u012611878/article/details/78945586)
 - [C++ 两个类头文件互相引用](https://blog.csdn.net/qq_22488067/article/details/73195621)
@@ -62,8 +57,14 @@
 - [6 Tips to supercharge C++11 vector performance](https://www.acodersjourney.com/6-tips-supercharge-cpp-11-vector-performance/)
 
 ### c++11以后的新特性
+- [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
+- [C++17: shared_mutex](https://en.cppreference.com/w/cpp/thread/shared_mutex)
+- [c++11之weak_ptr 使用介绍](https://blog.csdn.net/c_base_jin/article/details/79440999)
+- [C++11新特性之十：enable_shared_from_this](https://blog.csdn.net/caoshangpa/article/details/79392878)
+- [C++并发实战16: std::atomic原子操作](https://blog.csdn.net/liuxuejiang158blog/article/details/17413149)
 - [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
 - [C++ 原子操作CAS和lockless无锁队列](https://blog.csdn.net/qq_34999565/article/details/114483245)
+- [c++并发编程1.内存序](https://zhuanlan.zhihu.com/p/55901945)
 
 
 ## JavaScript
