@@ -65,6 +65,7 @@
 - [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
 - [C++ 原子操作CAS和lockless无锁队列](https://blog.csdn.net/qq_34999565/article/details/114483245)
 - [c++并发编程1.内存序](https://zhuanlan.zhihu.com/p/55901945)
+- [C++11新特性之POD类型](https://blog.csdn.net/Jxianxu/article/details/80524526)
 
 
 ## JavaScript
