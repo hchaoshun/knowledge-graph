@@ -28,6 +28,9 @@
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
 - [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction)
 
+## 用户画像
+- [终于有人把用户画像的流程、方法讲明白了](https://maimai.cn/article/detail?fid=1555064528&efid=rLyx_R8kghLbng2YFJ_Z-Q&share_channel=10&use_rn=1&_share_channel=dingtalk)
+
 ## 召回
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
 - [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
