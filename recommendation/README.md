@@ -27,6 +27,8 @@
 ## 特征工程
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
 - [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction)
+- [美团外卖特征平台的建设与实践](https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html)
+
 
 ## 用户画像
 - [终于有人把用户画像的流程、方法讲明白了](https://maimai.cn/article/detail?fid=1555064528&efid=rLyx_R8kghLbng2YFJ_Z-Q&share_channel=10&use_rn=1&_share_channel=dingtalk)
@@ -60,5 +62,4 @@
 - [微信「看一看」 推荐排序技术揭秘](https://www.jiqizhixin.com/articles/2020-07-21-16)
 - [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/NrPWwx1N68UH6RmnJi1uGw)
 - [蜻蜓FM信息流推荐探索与实践](https://mp.weixin.qq.com/s/NTwW1CvnvRJjxHoUjWxAmA)
-- [美团外卖特征平台的建设与实践](https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html)
 
