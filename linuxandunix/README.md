@@ -12,6 +12,7 @@ Linux/Unix和网络编程知识汇总
 - [Linux惊群效应详解](https://blog.csdn.net/lyztyycode/article/details/78648798)
 - [浅析Linux中的零拷贝技术](https://www.jianshu.com/p/fad3339e3448)
 - [SIGTERM vs SIGKILL: What's the Difference?](https://linuxhandbook.com/sigterm-vs-sigkill/#:~:text=SIGTERM%20gracefully%20kills%20the%20process,the%20child%20processes%20as%20well.)
+- [confd的安装与使用](https://blog.csdn.net/bbwangj/article/details/82953786)
 
 
 ## 计算机网络
