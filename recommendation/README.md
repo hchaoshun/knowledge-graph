@@ -28,6 +28,7 @@
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
 - [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction)
 - [美团外卖特征平台的建设与实践](https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html)
+- [Uber 机器学习平台实践](https://www.infoq.cn/article/ptie38l08imqcznhh3ym)
 
 
 ## 用户画像
