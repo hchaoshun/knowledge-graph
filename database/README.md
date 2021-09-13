@@ -5,6 +5,7 @@
 
 ### 数据库基础
 - [如何理解关系型数据库的常见设计范式？](https://www.zhihu.com/question/24696366/answer/29189700)
+- [深入浅出数据库索引原理](https://zhuanlan.zhihu.com/p/23624390)
 
 ### MySQL
 - [深入浅出数据库索引原理](https://zhuanlan.zhihu.com/p/23624390)
