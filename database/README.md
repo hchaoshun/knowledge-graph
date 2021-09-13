@@ -9,7 +9,6 @@
 
 ### MySQL
 - [查找算法 – B树 B+树](https://www.hadoop1024.com/2018/08/28/b-tree/)
-- [MySQL 数据库索引原理与分类](https://www.jianshu.com/p/e1dce41a6b2b)
 - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [MYSQL-索引](https://segmentfault.com/a/1190000003072424)
 - [数据库事务的四大特性（ACID）以及事务的隔离级别](https://blog.csdn.net/qq_25448409/article/details/78110430)
