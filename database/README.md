@@ -8,6 +8,7 @@
 - [深入浅出数据库索引原理](https://zhuanlan.zhihu.com/p/23624390)
 - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [MYSQL-索引](https://segmentfault.com/a/1190000003072424)
+- [Hash索引](https://www.jianshu.com/p/1c307a1e17fd)
 
 ### MySQL
 - [查找算法 – B树 B+树](https://www.hadoop1024.com/2018/08/28/b-tree/)
