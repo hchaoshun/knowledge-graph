@@ -62,6 +62,7 @@
 - [c++11之weak_ptr 使用介绍](https://blog.csdn.net/c_base_jin/article/details/79440999)
 - [C++11新特性之十：enable_shared_from_this](https://blog.csdn.net/caoshangpa/article/details/79392878)
 - [C++并发实战16: std::atomic原子操作](https://blog.csdn.net/liuxuejiang158blog/article/details/17413149)
+- [Which is more efficient, basic mutex lock or atomic integer?](https://stackoverflow.com/questions/15056237/which-is-more-efficient-basic-mutex-lock-or-atomic-integer)
 - [std::variant](https://en.cppreference.com/w/cpp/utility/variant)
 - [C++ 原子操作CAS和lockless无锁队列](https://blog.csdn.net/qq_34999565/article/details/114483245)
 - [c++并发编程1.内存序](https://zhuanlan.zhihu.com/p/55901945)
