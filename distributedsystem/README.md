@@ -5,7 +5,6 @@
 - [CAP 定理的含义](http://www.ruanyifeng.com/blog/2018/07/cap.html)
 - [FLP不可能原理/CAP原理/ACID原则](https://blog.csdn.net/bloodsuckerm/article/details/79851952)
 - [BASE理论](https://blog.csdn.net/jarniyy/article/details/93710088)
-- [分布式系统一致性 Linearizability vs. Sequential consistency](http://kaiyuan.me/2018/04/21/consistency-concept/)
 - [分布式系统：一致性模型](https://juejin.im/post/5c864435e51d45349224fa07)
 - [分布式系统：Lamport 逻辑时钟](https://juejin.im/post/5c54103b51882562c0494cc0)
 - [Gossip算法](http://www.distorage.com/%e5%88%86%e5%b8%83%e5%bc%8f%e7%b3%bb%e7%bb%9f%e6%8a%80%e6%9c%af%e7%b3%bb%e5%88%97-gossip%e7%ae%97%e6%b3%95/)
