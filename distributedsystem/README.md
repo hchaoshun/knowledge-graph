@@ -18,7 +18,7 @@
 - [分布式session解决方案](https://blog.csdn.net/qq_35620501/article/details/95047642)
 
 ## Raft
-- [Raft 一致性算法总结](http://www.thinkingyu.com/articles/Raft/)
+- [Raft动画](http://thesecretlivesofdata.com/raft/)
 - [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
 - [深入浅出 Raft - Membership Change](https://www.jianshu.com/p/99562bfec5c2)
 
