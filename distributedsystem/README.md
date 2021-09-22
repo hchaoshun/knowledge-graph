@@ -17,6 +17,9 @@
 - [分布式唯一ID的几种生成方案](https://juejin.im/post/5b3a23746fb9a024e15cad79)
 - [分布式session解决方案](https://blog.csdn.net/qq_35620501/article/details/95047642)
 
+## Google
+- [关于MapReduce的理解？](https://www.zhihu.com/question/23345991/answer/97271355)
+
 ## Raft
 - [Raft动画](http://thesecretlivesofdata.com/raft/)
 - [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/)
