@@ -56,6 +56,7 @@
 - [我所理解的 C++ 反射机制](https://blog.csdn.net/K346K346/article/details/51698184)
 - [6 Tips to supercharge C++11 vector performance](https://www.acodersjourney.com/6-tips-supercharge-cpp-11-vector-performance/)
 - [关于NRV优化详细分析](https://blog.csdn.net/FreeeLinux/article/details/53941190)
+- [__builtin_expect 说明](https://www.jianshu.com/p/2684613a300f)
 
 ### c++11以后的新特性
 - [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
