@@ -40,3 +40,6 @@
 ## 大数据
 
 - [如何用形象的比喻描述大数据的技术生态？](https://www.zhihu.com/question/27974418)
+
+## 业界分布式系统
+- [从Elasticsearch来看分布式系统架构设计](https://mp.weixin.qq.com/s/j7YcVgmYgZ0OuMGqDblKXg)
