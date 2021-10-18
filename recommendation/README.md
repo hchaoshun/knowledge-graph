@@ -39,6 +39,7 @@
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
 - [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 - [推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982)
+- [闲聊推荐系统中的曝光过滤机制](https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&mid=2247500277&idx=1&sn=17d7277c0e7c664b0750c3020a8e6d47&chksm=ea65096fdd1280797e63d66fe023a3ad4bcb693afbdfe44106872a089e8baf8228e63795ff68&scene=21#wechat_redirect)
 
 ## 个性化排序
 - [个性化推荐排序详解](https://www.jianshu.com/p/1fd2b97fc765)
