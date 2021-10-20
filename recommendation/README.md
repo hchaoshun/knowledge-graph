@@ -46,6 +46,7 @@
 - [推荐系统评测指标](https://blog.csdn.net/checkche/article/details/84673650?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param)
 - [粗排拟合精排](https://zhuanlan.zhihu.com/p/352961688)
 - [推荐系统全链路（2）召回粗排精排-级联漏斗上篇](https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&mid=2247502357&idx=1&sn=b79aab51a1271b7702942ed8cb6914e4&chksm=ea65028fdd128b993a373ee098419f95444b0e92f4e6c5508c9b5e6c0ea498c4b59cec351993&cur_album_id=1446013116592308224&scene=189#rd)
+- [推荐系统全链路（4）打压保送重排策略-拍不完的脑袋](https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&mid=2247502371&idx=1&sn=e6543ac1e4cda691300e07c82737c750&chksm=ea6502b9dd128baf46c2226e6e80d448390cacb4b5cb3280a7be17c9100cc3f9f3c8b5f38f07&cur_album_id=1446013116592308224&scene=189#rd)
 
 ## AB Test
 - [AB测试](https://baike.baidu.com/item/AB%E6%B5%8B%E8%AF%95)
