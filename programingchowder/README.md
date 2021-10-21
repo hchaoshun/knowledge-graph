@@ -5,3 +5,6 @@
 - [回调函数（callback）是什么？](https://www.zhihu.com/question/19801131)
 - [异步编程](https://www.jianshu.com/p/c4dc7866eb81)
 
+## 概念
+- [SDK vs. API: What’s the Difference?](https://www.ibm.com/cloud/blog/sdk-vs-api)
+
