@@ -71,3 +71,6 @@
 - [全民 K 歌内容挖掘与召回](https://www.infoq.cn/article/Qg3uV88ghB0qL09G7o54?utm_source=related_read&utm_medium=article)
 - [美图个性化推荐的探索与实践](https://www.infoq.cn/article/XuzDM0DBpb8fasLpYVFC?utm_source=related_read_bottom&utm_medium=article)
 
+## 广告
+- [广告系统架构解密](https://www.infoq.cn/article/1yweyltgti5bigenuklx)
+
