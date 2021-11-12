@@ -12,6 +12,13 @@
 - [Git submodule 子模块的管理和使用](https://www.jianshu.com/p/9000cd49822c)
 - [Git 工具 - 子模块](https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97)
 
+## 运维
+
+### Prometheus
+- [Prometheus 监控系统的学习总结](https://segmentfault.com/a/1190000024450912)
+- [Prometheus 语法初探](https://mp.weixin.qq.com/s/kqCvOEnmB3CoqJqi75WbyA)
+- [彻底理解Prometheus查询语法](https://mp.weixin.qq.com/s/vCVqkpSRzYIicafjDUTCyA)
+
 ## cpp工具
 
 ### cmake
