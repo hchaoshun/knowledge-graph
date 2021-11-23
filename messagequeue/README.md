@@ -14,3 +14,4 @@
 - [Kafka 会不会丢消息？怎么处理的?](https://zhuanlan.zhihu.com/p/307480336)
 - [Kafka重复消费总结](https://www.cnblogs.com/yangyongjie/p/14675119.html)
 - [Kafka 核心组件之协调器](https://www.jianshu.com/p/f01f5f0309a9)
+- [聊聊 Kafka： Kafka 为啥这么快？](https://www.jianshu.com/p/53b8ec516a0b)
