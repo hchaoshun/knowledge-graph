@@ -29,6 +29,7 @@
 - [SQL中Truncate的用法](https://www.cnblogs.com/zhoufangcheng04050227/p/7991759.html)
 - [InnoDB Gap锁](https://amsimple.com/blog/article/72.html)
 - [为什么要使用自增ID作为主键](https://www.cnblogs.com/lanqi/p/10185172.html)
+- [mysql日志系统之redo log和bin log](https://www.jianshu.com/p/4bcfffb27ed5)
 
   
 ## 非关系型数据库
