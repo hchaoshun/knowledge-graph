@@ -37,6 +37,7 @@
 
 ### HBase
 - [HBase Java API Demo](https://blog.csdn.net/zhu_tianwei/article/details/48829125)
+- [五分钟轻松了解Hbase列式存储](https://juejin.cn/post/6844903750012780558)
 
 
 ### MongoDB
