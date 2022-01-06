@@ -20,3 +20,6 @@
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
 
+## 业界系统设计案例
+- [短视频个性化Push工程精进之路](https://mp.weixin.qq.com/s/BsMQ1alfSdfaHWkM9K2Vzw)
+
