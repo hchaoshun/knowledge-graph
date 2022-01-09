@@ -74,4 +74,5 @@
 
 ## 广告
 - [广告系统架构解密](https://www.infoq.cn/article/1yweyltgti5bigenuklx)
+- [Ad Exchange](https://baike.baidu.com/item/Ad%20Exchange/3811429)
 
