@@ -73,6 +73,7 @@
 - [微博推荐算法实践与机器学习平台演进](https://zhuanlan.zhihu.com/p/447415588)
 
 ## 广告
+- [计算广告生态概述](https://www.zhihu.com/column/fuliucansheng)
 - [广告系统架构解密](https://www.infoq.cn/article/1yweyltgti5bigenuklx)
 - [Ad Exchange](https://baike.baidu.com/item/Ad%20Exchange/3811429)
 
