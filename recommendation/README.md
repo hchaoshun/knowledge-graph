@@ -77,4 +77,5 @@
 - [广告系统架构解密](https://www.infoq.cn/article/1yweyltgti5bigenuklx)
 - [Ad Exchange](https://baike.baidu.com/item/Ad%20Exchange/3811429)
 - [DSP、ADX、SSP、DMP之间的关系](https://blog.csdn.net/programme_carefree/article/details/72764879)
+- [广告归因：是什么和为什么](https://zhuanlan.zhihu.com/p/353558479)
 
