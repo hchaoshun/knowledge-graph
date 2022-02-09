@@ -57,6 +57,8 @@
 - [6 Tips to supercharge C++11 vector performance](https://www.acodersjourney.com/6-tips-supercharge-cpp-11-vector-performance/)
 - [关于NRV优化详细分析](https://blog.csdn.net/FreeeLinux/article/details/53941190)
 - [__builtin_expect 说明](https://www.jianshu.com/p/2684613a300f)
+- [源码分析C++的string的实现](https://cloud.tencent.com/developer/article/1755459)
+- [copy-on-write 在c++ std::string中的应用](https://blog.csdn.net/D_Guco/article/details/79833665#:~:text=Copy%2DOn%2DWrite%E7%AE%80%E7%A7%B0COW,%E7%A7%8D%E5%BB%B6%E6%97%B6%E6%87%92%E6%83%B0%E7%AD%96%E7%95%A5.)
 
 ### c++11以后的新特性
 - [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
