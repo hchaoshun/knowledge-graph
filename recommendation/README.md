@@ -35,6 +35,7 @@
 
 ## 用户画像
 - [终于有人把用户画像的流程、方法讲明白了](https://maimai.cn/article/detail?fid=1555064528&efid=rLyx_R8kghLbng2YFJ_Z-Q&share_channel=10&use_rn=1&_share_channel=dingtalk)
+- [王志杰：如何构建好的用户画像？](https://mp.weixin.qq.com/s/9sHusGBlh6cN2-GG74i5dw)
 
 ## 召回
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
