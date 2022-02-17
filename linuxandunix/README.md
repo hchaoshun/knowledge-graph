@@ -27,7 +27,6 @@ Linux/Unix和网络编程知识汇总
 - [TCP第三次握手失败](https://www.cnblogs.com/heyonggang/p/3386415.html)
 - [TCP粘包、拆包问题](https://network.51cto.com/art/201910/604438.htm)
 - [http请求与响应全过程](https://blog.csdn.net/pmt123456/article/details/55216555)
-- [机器上出现大量time_wait怎么办](https://blog.csdn.net/fanren224/article/details/89849276)
 - [QQ为何采用UDP协议](https://blog.csdn.net/junjunba2689/article/details/82593124#comments)
 - [访问一个URL经历了哪些过程](https://blog.csdn.net/Myxyj/article/details/80027700?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1)
 - [TCP和UDP监听相同端口](https://blog.51cto.com/12083623/2362539)
@@ -35,3 +34,4 @@ Linux/Unix和网络编程知识汇总
 ](https://stackoverflow.com/questions/34034341/what-is-the-relationship-between-http-connection-and-request#:~:text=HTTP%20connections%20%2D%20client%20and%20server,a%20connection%20with%20the%20server.)
 - [进程如何优雅退出](https://juejin.cn/post/6844904121057673223)
 - [TCP-IP详解：Nagle算法](https://blog.csdn.net/wdscq1234/article/details/52432095)
+- [大量的 TIME_WAIT 状态连接怎么处理？](https://cloud.tencent.com/developer/article/1675933)
