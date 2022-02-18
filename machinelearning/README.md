@@ -16,6 +16,7 @@
 - [GBDT：梯度提升决策树](https://www.jianshu.com/p/005a4e6ac775)
 - [机器学习 | 详解GBDT梯度提升树原理，看完再也不怕面试了](https://zhuanlan.zhihu.com/p/169568445)
 - [KNN算法](https://blog.csdn.net/saltriver/article/details/52502253)
+- [理解 product quantization 算法](http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017/08/05/understanding-product-quantization)
 ## 神经网络
 - [神经网络讲解视频](https://space.bilibili.com/88461692/channel/detail?cid=26587)
 - [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
