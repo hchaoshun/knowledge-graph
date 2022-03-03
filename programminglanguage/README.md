@@ -24,6 +24,7 @@
 ## C
 - [深入 char * ,char ** ,char a[ ] ,char *a[] 内核](https://blog.csdn.net/daiyutage/article/details/8604720?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 - [sizeof和strlen的区别及使用详解](https://blog.csdn.net/magic_world_wow/article/details/80500473)
+- [多个动态库的依赖问题（先后顺序务必注意）](https://blog.csdn.net/sweetfather/article/details/92691637)
 
 
 
