@@ -13,6 +13,7 @@
 - [【超赞】技术架构的战略和战术原则](https://mp.weixin.qq.com/s/O9EOqzyxp8uBjHqMKeFgIg)
 - [一文详解微服务架构](https://www.cnblogs.com/skabyy/p/11396571.html)
 - [为什么微服务一定要有网关？](https://cloud.tencent.com/developer/article/1142463)
+- [基于redis实现的点赞功能设计](https://www.cnblogs.com/liuyupen/p/14015407.html)
 
 ## RPC
 - [如何优雅地重试](https://mp.weixin.qq.com/s/6IkTnUbBlHjM3GM_bT35tA)
