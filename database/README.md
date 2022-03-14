@@ -55,6 +55,7 @@
 - [说说持久化机制及RDB/AOF应用场景分析！](https://cloud.tencent.com/developer/article/1828400)
 - [Redis为什么这么快？Redis的线程模型与Redis多线程](https://mp.weixin.qq.com/s/WbaHoVIY_RayCnDx06lsfw)
 - [发现并处理Redis的大Key和热Key](https://help.aliyun.com/document_detail/353223.html)
+- [Redis的事务满足原子性吗？](https://www.51cto.com/article/681240.html)
 
 ### Elasticsearch
 - [Elasticsearch系列---初识Elasticsearch](https://juejin.cn/post/6844903994054148110)
