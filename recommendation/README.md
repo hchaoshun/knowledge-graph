@@ -31,6 +31,7 @@
 - [Uber 机器学习平台实践](https://www.infoq.cn/article/ptie38l08imqcznhh3ym)
 - [特征平台（Feature Store）综述：序论篇](https://zhuanlan.zhihu.com/p/406897374)
 - [工业界推荐系统怎么做特征？](https://www.zhihu.com/question/419906651/answer/1459124132)
+- [推荐系统特征工程高级技巧总结](https://mp.weixin.qq.com/s/NzbrfI9h_vjllUCkDyKadg)
 
 
 ## 用户画像
