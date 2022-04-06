@@ -22,3 +22,4 @@
 - [字节跳动某面试官的压箱题——灯泡开关](https://mp.weixin.qq.com/s/Dh_Z6JUSj4csCC8JfIkM1A)
 - [鸡蛋掉落----经典dp](https://blog.csdn.net/holly_Z_P_F/article/details/88574351?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4)
 - [智力题：烧绳子&切两刀构成三角形的概率](https://mp.weixin.qq.com/s/drMlnYXqeP8BLsOxY9VAtg)
+- [算法系列-大数据面试题-两个大文件中找出共同记录](https://blog.csdn.net/tiankong_/article/details/77234726)
