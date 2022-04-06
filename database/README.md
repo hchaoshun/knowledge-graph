@@ -31,6 +31,7 @@
 - [为什么要使用自增ID作为主键](https://www.cnblogs.com/lanqi/p/10185172.html)
 - [mysql日志系统之redo log和bin log](https://www.jianshu.com/p/4bcfffb27ed5)
 - [mysql主从延迟](https://zhuanlan.zhihu.com/p/434300434)
+- [缓冲池(buffer pool)，这次彻底懂了！！！](https://juejin.cn/post/6844903874172551181)
 
   
 ## 非关系型数据库
