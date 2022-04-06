@@ -32,6 +32,7 @@
 - [mysql日志系统之redo log和bin log](https://www.jianshu.com/p/4bcfffb27ed5)
 - [mysql主从延迟](https://zhuanlan.zhihu.com/p/434300434)
 - [缓冲池(buffer pool)，这次彻底懂了！！！](https://juejin.cn/post/6844903874172551181)
+- [写缓冲(change buffer)，这次彻底懂了！！！](https://juejin.cn/post/6960555140189257741)
 
   
 ## 非关系型数据库
