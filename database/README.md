@@ -55,11 +55,11 @@
 - [Redis官方亲儿子，RedisCluster是怎么一回事](https://baijiahao.baidu.com/s?id=1643461909684941861&wfr=spider&for=pc)
 - [Redis缓存穿透和缓存雪崩](https://baijiahao.baidu.com/s?id=1655304940308056733&wfr=spider&for=pc)
 - [Redis 排行榜 相同分数根据时间优先排行](https://blog.csdn.net/zeus_9i/article/details/51025175)
-- [Redis缓存和MySQL数据一致性方案详解](https://my.oschina.net/jiagouzhan/blog/2990423)
 - [说说持久化机制及RDB/AOF应用场景分析！](https://cloud.tencent.com/developer/article/1828400)
 - [Redis为什么这么快？Redis的线程模型与Redis多线程](https://mp.weixin.qq.com/s/WbaHoVIY_RayCnDx06lsfw)
 - [发现并处理Redis的大Key和热Key](https://help.aliyun.com/document_detail/353223.html)
 - [Redis的事务满足原子性吗？](https://www.51cto.com/article/681240.html)
+- [如何保证缓存与数据库双写时的数据一致性？](https://mp.weixin.qq.com/s/uL1EW1W2mwrzAbtFNyAruw)
 
 ### Elasticsearch
 - [Elasticsearch系列---初识Elasticsearch](https://juejin.cn/post/6844903994054148110)
