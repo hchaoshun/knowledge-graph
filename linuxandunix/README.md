@@ -11,6 +11,7 @@ Linux/Unix和网络编程知识汇总
 - [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
 - [Linux惊群效应详解](https://blog.csdn.net/lyztyycode/article/details/78648798)
 - [浅析Linux中的零拷贝技术](https://www.jianshu.com/p/fad3339e3448)
+- [Linux中的零拷贝技术](https://www.zhihu.com/question/35093238/answer/2342212337)
 - [SIGTERM vs SIGKILL: What's the Difference?](https://linuxhandbook.com/sigterm-vs-sigkill/#:~:text=SIGTERM%20gracefully%20kills%20the%20process,the%20child%20processes%20as%20well.)
 - [confd的安装与使用](https://blog.csdn.net/bbwangj/article/details/82953786)
 - [深入理解Linux I/O系统](https://mp.weixin.qq.com/s/xog7NR0j9930-ayb18svVg)
