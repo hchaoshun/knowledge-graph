@@ -13,8 +13,8 @@
 ### 传统模型
 - [FM（Factorization Machines）的理论与实践](https://zhuanlan.zhihu.com/p/50426292)
 - [谈谈因子分解机模型（FM）](https://liam.page/2019/03/25/Factorization-Machine/)
-(本质是二阶多项式核wij是xi和xj共有， 完全由xi * xj决定，xi和xj只要有一个值为0，wij就总是0
-<vi, vj> 两个参数是分开的，不完全由xi * xj决定，只要有一个xi * xk 不为0, vi就能学到东西，同理vj也一样
+(本质是二阶多项式核wij是xi和xj共有， 完全由xi * xj决定，xi和xj只要有一个值为0，wij就总是0。
+<vi, vj> 两个参数是分开的，不完全由xi * xj决定，只要有一个xi * xk 不为0, vi就能学到东西，同理vj也一样，
 这样即使 xi * xj 为0， vi, vj也能学习更新)
 
 ## 产品
