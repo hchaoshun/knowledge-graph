@@ -5,7 +5,6 @@
 - [数据结构：位图法](https://blog.csdn.net/wypblog/article/details/8237956)
 - [二叉树后续遍历](https://www.geeksforgeeks.org/iterative-postorder-traversal/?ref=lbp)
 - [哈希表和红黑树的对比](https://blog.csdn.net/ljlstart/article/details/51335687?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
-- [LSM树 VS B+树](https://blog.csdn.net/iteye_14608/article/details/82507468?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4)
 - [Trie(Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
 - [What are the differences between B trees and B+ trees?](https://stackoverflow.com/questions/870218/what-are-the-differences-between-b-trees-and-b-trees)
 - [邻接表与邻接矩阵](https://www.jianshu.com/p/ce4109962031)
