@@ -34,6 +34,7 @@
 - [缓冲池(buffer pool)，这次彻底懂了！！！](https://juejin.cn/post/6844903874172551181)
 - [写缓冲(change buffer)，这次彻底懂了！！！](https://juejin.cn/post/6960555140189257741)
 - [redolog与binlog为什么需要两阶段提交？](https://cloud.tencent.com/developer/article/1790507)
+- [MySQL 性能优化神器 Explain 使用分析](https://segmentfault.com/a/1190000008131735)
 
   
 ## 非关系型数据库
