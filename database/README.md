@@ -42,6 +42,7 @@
 ### HBase
 - [HBase Java API Demo](https://blog.csdn.net/zhu_tianwei/article/details/48829125)
 - [五分钟轻松了解Hbase列式存储](https://juejin.cn/post/6844903750012780558)
+- [LSM树 VS B+树](https://blog.csdn.net/iteye_14608/article/details/82507468?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4)
 
 
 ### MongoDB
