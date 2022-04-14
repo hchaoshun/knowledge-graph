@@ -19,6 +19,7 @@ Linux/Unix和网络编程知识汇总
 - [线程池的线程数怎么确定](https://www.jianshu.com/p/78267c8405f4)
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
 - [查看线程栈信息](https://blog.csdn.net/swj9099/article/details/82048448)
+- [线上服务内存OOM问题定位三板斧](https://blog.csdn.net/jjavaboy/article/details/77773754)
 
 ## 计算机网络
 - [图解Https连接过程](https://blog.csdn.net/jinrumorijuesha/article/details/79655561)
