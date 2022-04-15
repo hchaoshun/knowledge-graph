@@ -16,3 +16,4 @@
 - [Kafka 核心组件之协调器](https://www.jianshu.com/p/f01f5f0309a9)
 - [聊聊 Kafka： Kafka 为啥这么快？](https://www.jianshu.com/p/53b8ec516a0b)
 - [MQ问题总结](https://mp.weixin.qq.com/s/rnZ4h33AIKTRnX7MQLsX1w)
+- [消息队列满了怎么处理](https://github.com/doocs/advanced-java/blob/main/docs/high-concurrency/mq-time-delay-and-expired-failure.md)
