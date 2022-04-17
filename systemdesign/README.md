@@ -21,6 +21,7 @@
 - [gRPC and Deadlines](https://grpc.io/blog/deadlines/)
 - [gRPC服务发现&负载均衡](https://segmentfault.com/a/1190000008672912)
 - [gRPC的重试策略](https://zhuanlan.zhihu.com/p/73747546)
+- [高并发下重启服务，接口调用老是超时，你有什么解决办法？](https://cloud.tencent.com/developer/article/1768020)
 
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
