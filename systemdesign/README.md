@@ -22,6 +22,7 @@
 - [磁盘IO性能优化](https://mp.weixin.qq.com/s/ZpNQL7n9RoQ3cZCq_qVMXg)
 - [MySQL 数据库连接数 设置多少合适？如何设置呢？](https://www.huaweicloud.com/zhishi/edits-15756286.html)
 - [记一次性能优化，单台4核8G机器支撑5万QPS](https://mp.weixin.qq.com/s/5oxix88PCkAJfek6x0nvnw)
+- [后台服务架构高性能设计之道](https://mp.weixin.qq.com/s/hsH7LMBEDGe_df9UbfOvbQ)
 
 ## 线上问题排查
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
