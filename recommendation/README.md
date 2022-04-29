@@ -52,6 +52,7 @@
 - [「召回层」回顾一下传统召回方法](https://www.modb.pro/db/103252)
 - [「召回层」深度召回中的i2i](https://www.modb.pro/db/103251)
 - [「召回层」深度召回中的u2i](https://www.modb.pro/db/103250)
+- [召回模型中的负样本构造](https://zhuanlan.zhihu.com/p/358450850)
 
 ## 个性化排序
 - [个性化推荐排序详解](https://www.jianshu.com/p/1fd2b97fc765)
