@@ -49,6 +49,7 @@
 - [闲聊推荐系统中的曝光过滤机制](https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&mid=2247500277&idx=1&sn=17d7277c0e7c664b0750c3020a8e6d47&chksm=ea65096fdd1280797e63d66fe023a3ad4bcb693afbdfe44106872a089e8baf8228e63795ff68&scene=21#wechat_redirect)
 - [SENet双塔模型：在推荐领域召回粗排的应用及其它](https://zhuanlan.zhihu.com/p/358779957)
 - [推荐系统的中的正排和倒排](https://blog.csdn.net/weixin_44441131/article/details/115796765)
+- [「召回层」回顾一下传统召回方法](https://www.modb.pro/db/103252)
 - [「召回层」深度召回中的i2i](https://www.modb.pro/db/103251)
 - [「召回层」深度召回中的u2i](https://www.modb.pro/db/103250)
 
