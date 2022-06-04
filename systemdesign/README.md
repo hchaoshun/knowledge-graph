@@ -39,6 +39,7 @@
 - [gRPC的重试策略](https://zhuanlan.zhihu.com/p/73747546)
 - [高并发下重启服务，接口调用老是超时，你有什么解决办法？](https://cloud.tencent.com/developer/article/1768020)
 - [Performance Best Practices](https://grpc.io/docs/guides/performance/)
+- [protobuf为什么那么快](https://www.jianshu.com/p/72108f0aefca)
 - [高效的数据压缩编码方式 Protobuf](https://halfrost.com/protobuf_encode/)
 - [Protocol Buffers 编码](https://taoshu.in/pb-encoding.html)
 
