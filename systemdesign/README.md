@@ -18,6 +18,7 @@
 - [无锁队列的实现](https://coolshell.cn/articles/8239.html)
 
 ## 性能优化
+- [图解 TCMalloc](https://zhuanlan.zhihu.com/p/29216091)
 - [ptmalloc、tcmalloc与jemalloc对比分析](https://www.cyningsun.com/07-07-2018/memory-allocator-contrasts.html#tcmalloc)
 - [内存优化总结tcmalloc与jemalloc-转载](https://zhuanlan.zhihu.com/p/163764191)
 - [磁盘IO性能优化](https://mp.weixin.qq.com/s/ZpNQL7n9RoQ3cZCq_qVMXg)
