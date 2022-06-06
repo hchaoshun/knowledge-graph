@@ -30,6 +30,7 @@
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
 - [查看线程栈信息](https://blog.csdn.net/swj9099/article/details/82048448)
 - [线上服务内存OOM问题定位三板斧](https://blog.csdn.net/jjavaboy/article/details/77773754)
+- [能解决 80% 故障的排查思路](https://mp.weixin.qq.com/s/kL2l-0CsZ_KXrVn8Av2d5g)
 
 
 ## RPC
