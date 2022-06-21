@@ -18,6 +18,7 @@
 - [Prometheus 监控系统的学习总结](https://segmentfault.com/a/1190000024450912)
 - [Prometheus 语法初探](https://mp.weixin.qq.com/s/kqCvOEnmB3CoqJqi75WbyA)
 - [彻底理解Prometheus查询语法](https://mp.weixin.qq.com/s/vCVqkpSRzYIicafjDUTCyA)
+- [PromQL 教程 Range Vector](https://www.modb.pro/db/144621)
 
 ## cpp工具
 
