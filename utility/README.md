@@ -59,6 +59,7 @@
 ### Linux性能分析工具
 - [每天一个linux命令（47）：iostat命令](https://www.cnblogs.com/peida/archive/2012/12/28/2837345.html)
 - [linux pidstat 命令详解](https://cloud.tencent.com/developer/article/1492825)
+- [Linux CPU实时监控mpstat命令详解](https://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858775.html)
 
 ## 测试工具
 
