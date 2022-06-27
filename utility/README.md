@@ -56,6 +56,9 @@
 - [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
 - [Guide to Linux jq Command for JSON Processing](https://www.baeldung.com/linux/jq-command-json)
 
+### Linux性能分析工具
+- [每天一个linux命令（47）：iostat命令](https://www.cnblogs.com/peida/archive/2012/12/28/2837345.html)
+
 ## 测试工具
 
 ### Grpc
