@@ -61,6 +61,7 @@
 - [linux pidstat 命令详解](https://cloud.tencent.com/developer/article/1492825)
 - [Linux CPU实时监控mpstat命令详解](https://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858775.html)
 - [Linux vmstat命令实战详解](https://www.cnblogs.com/ggjucheng/archive/2012/01/05/2312625.html)
+- [使用 Valgrind 检测 C++ 内存泄漏](http://senlinzhan.github.io/2017/12/31/valgrind/)
 
 ## 测试工具
 
