@@ -63,8 +63,8 @@
 - [Linux vmstat命令实战详解](https://www.cnblogs.com/ggjucheng/archive/2012/01/05/2312625.html)
 - [使用 Valgrind 检测 C++ 内存泄漏](http://senlinzhan.github.io/2017/12/31/valgrind/)
 - [Linux性能监控命令——sar详解](https://blog.51cto.com/moerjinrong/2092371)
-- [hping3
-](https://wangchujiang.com/linux-command/c/hping3.html)
+- [hping3](https://wangchujiang.com/linux-command/c/hping3.html)
+- [curl 的用法指南](https://www.ruanyifeng.com/blog/2019/09/curl-reference.html)
 
 ## 测试工具
 
