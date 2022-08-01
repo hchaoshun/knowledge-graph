@@ -66,6 +66,7 @@
 - [hping3](https://wangchujiang.com/linux-command/c/hping3.html)
 - [curl 的用法指南](https://www.ruanyifeng.com/blog/2019/09/curl-reference.html)
 - [tcpdump工具使用说明 ](https://www.cnblogs.com/chenqionghe/p/10470351.html)
+- [如何看懂火焰图](https://cloud.tencent.com/developer/article/1873597)
 
 ## 测试工具
 
