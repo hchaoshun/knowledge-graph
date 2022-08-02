@@ -69,6 +69,7 @@
 - [如何看懂火焰图](https://cloud.tencent.com/developer/article/1873597)
 - [linux命令-- pstack命令(跟踪进程栈)](https://www.cnblogs.com/kongzhongqijing/articles/7685699.html)
 - [perf](http://linux.51yip.com/search/perf)
+- [Linux性能监控命令——sar详解](https://blog.51cto.com/moerjinrong/2092371)
 
 ## 测试工具
 
