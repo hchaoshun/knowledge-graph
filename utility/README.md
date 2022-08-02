@@ -68,6 +68,7 @@
 - [tcpdump工具使用说明 ](https://www.cnblogs.com/chenqionghe/p/10470351.html)
 - [如何看懂火焰图](https://cloud.tencent.com/developer/article/1873597)
 - [linux命令-- pstack命令(跟踪进程栈)](https://www.cnblogs.com/kongzhongqijing/articles/7685699.html)
+- [perf](http://linux.51yip.com/search/perf)
 
 ## 测试工具
 
