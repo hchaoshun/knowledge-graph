@@ -87,6 +87,7 @@
 - [全民 K 歌内容挖掘与召回](https://www.infoq.cn/article/Qg3uV88ghB0qL09G7o54?utm_source=related_read&utm_medium=article)
 - [美图个性化推荐的探索与实践](https://www.infoq.cn/article/XuzDM0DBpb8fasLpYVFC?utm_source=related_read_bottom&utm_medium=article)
 - [微博推荐算法实践与机器学习平台演进](https://zhuanlan.zhihu.com/p/447415588)
+- [美团搜索粗排优化的探索与实践](https://mp.weixin.qq.com/s/L-ut5sH7VjaVk3IuR7ZRmw)
 
 ## 广告
 - [计算广告生态概述](https://www.zhihu.com/column/fuliucansheng)
