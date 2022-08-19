@@ -95,5 +95,6 @@
 - [Ad Exchange](https://baike.baidu.com/item/Ad%20Exchange/3811429)
 - [DSP、ADX、SSP、DMP之间的关系](https://blog.csdn.net/programme_carefree/article/details/72764879)
 - [广告归因：是什么和为什么](https://zhuanlan.zhihu.com/p/353558479)
+- [不懂归因，也许你广告还没入门](https://zhuanlan.zhihu.com/p/339730526)
 - [计算广告与推荐系统有哪些区别？ - 王喆的回答 - 知乎](https://www.zhihu.com/question/19662693/answer/757347092)
 
