@@ -27,6 +27,7 @@
 - [记一次性能优化，单台4核8G机器支撑5万QPS](https://mp.weixin.qq.com/s/5oxix88PCkAJfek6x0nvnw)
 - [后台服务架构高性能设计之道](https://mp.weixin.qq.com/s/hsH7LMBEDGe_df9UbfOvbQ)
 - [高并发服务的几条优化经验](https://mp.weixin.qq.com/s/oUsqQAThoo1mbvMp3WgH8g)
+- [如何提升CPU的缓存命中率？](https://zhuanlan.zhihu.com/p/209181629)
 
 ## 线上问题排查
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
