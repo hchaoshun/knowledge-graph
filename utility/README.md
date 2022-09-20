@@ -71,6 +71,7 @@
 - [perf](http://linux.51yip.com/search/perf)
 - [Linux性能监控命令——sar详解](https://blog.51cto.com/moerjinrong/2092371)
 - [Linux 命令神器：lsof](https://www.jianshu.com/p/a3aa6b01b2e1)
+- [Linux strace命令](https://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316692.html)
 
 ## 测试工具
 
