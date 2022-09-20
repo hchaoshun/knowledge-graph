@@ -70,6 +70,7 @@
 - [linux命令-- pstack命令(跟踪进程栈)](https://www.cnblogs.com/kongzhongqijing/articles/7685699.html)
 - [perf](http://linux.51yip.com/search/perf)
 - [Linux性能监控命令——sar详解](https://blog.51cto.com/moerjinrong/2092371)
+- [Linux 命令神器：lsof](https://www.jianshu.com/p/a3aa6b01b2e1)
 
 ## 测试工具
 
