@@ -52,4 +52,5 @@
 
 ## 业界系统设计案例
 - [短视频个性化Push工程精进之路](https://mp.weixin.qq.com/s/BsMQ1alfSdfaHWkM9K2Vzw)
+- [“一天宕机三次”，为什么高并发这么难？](https://mp.weixin.qq.com/s/g4c7ovftzkTYRSfuRtgn7A)
 
