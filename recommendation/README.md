@@ -98,3 +98,6 @@
 - [不懂归因，也许你广告还没入门](https://zhuanlan.zhihu.com/p/339730526)
 - [计算广告与推荐系统有哪些区别？ - 王喆的回答 - 知乎](https://www.zhihu.com/question/19662693/answer/757347092)
 
+## 架构
+- [超详细：完整的推荐系统架构设计](https://mp.weixin.qq.com/s/kC1zSpBTAlswGBL7pw7cUA)
+
