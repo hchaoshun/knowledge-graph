@@ -7,4 +7,4 @@
 
 ## 概念
 - [SDK vs. API: What’s the Difference?](https://www.ibm.com/cloud/blog/sdk-vs-api)
-
+- [程序的链接——符号解析](https://www.jianshu.com/p/2786533a34c9)
