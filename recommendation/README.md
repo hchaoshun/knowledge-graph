@@ -5,6 +5,7 @@
 - [推荐系统 I 关于推荐策略的整理与思考](https://www.iambigboss.top/post/49420_1_1.html)
 - [23张图，带你入门推荐系统](https://mp.weixin.qq.com/s/d6bCGT8B4h5pfI77TvLicA)
 - [推荐系统架构与算法流程详解](https://mp.weixin.qq.com/s/xfzUJupEG2C2_6Wl1qxaDA)
+- [电商搜索全链路复盘](https://mp.weixin.qq.com/s/R40TRBGD9J_WgXIbBaDoGw)
 
 ## 算法
 - [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
