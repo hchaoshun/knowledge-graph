@@ -31,7 +31,7 @@
 - [3分钟视频看懂令牌桶算法](https://www.bilibili.com/video/av26168532/)
 - [3分钟视频看懂令牌桶算](https://segmentfault.com/a/1190000015559953)
 - [布隆过滤器的原理](https://zhuanlan.zhihu.com/p/43263751)
-- [图解一致性哈希算法](https://segmentfault.com/a/1190000021199728)
+- [图解一致性哈希算法](https://leehao.me/%E4%B8%80%E8%87%B4%E6%80%A7Hash-Consistent-Hashing-%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90/)
 
 ### 示例
 - [如何设计秒杀系统](https://blog.csdn.net/CSDN_Terence/article/details/77744042)
