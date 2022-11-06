@@ -20,7 +20,6 @@
 - [无锁队列的实现](https://coolshell.cn/articles/8239.html)
 
 ## 性能优化
-- [图解 TCMalloc](https://zhuanlan.zhihu.com/p/29216091)
 - [ptmalloc、tcmalloc与jemalloc对比分析](https://www.cyningsun.com/07-07-2018/memory-allocator-contrasts.html#tcmalloc)
 - [内存优化总结tcmalloc与jemalloc-转载](https://zhuanlan.zhihu.com/p/163764191)
 - [磁盘IO性能优化](https://mp.weixin.qq.com/s/ZpNQL7n9RoQ3cZCq_qVMXg)
@@ -29,6 +28,9 @@
 - [后台服务架构高性能设计之道](https://mp.weixin.qq.com/s/hsH7LMBEDGe_df9UbfOvbQ)
 - [高并发服务的几条优化经验](https://mp.weixin.qq.com/s/oUsqQAThoo1mbvMp3WgH8g)
 - [如何提升CPU的缓存命中率？](https://zhuanlan.zhihu.com/p/209181629)
+
+## 内存管理
+- [图解 TCMalloc](https://zhuanlan.zhihu.com/p/29216091)
 
 ## 线上问题排查
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
