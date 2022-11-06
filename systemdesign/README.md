@@ -32,7 +32,8 @@
 ## 内存管理
 - [图解 TCMalloc](https://zhuanlan.zhihu.com/p/29216091)
 - [TCMalloc内存分配原理简介](https://www.cnblogs.com/jiujuan/p/13869547.html)
-- [https://zhuanlan.zhihu.com/p/51432385](https://zhuanlan.zhihu.com/p/51432385)
+- [TCMalloc解密（一）](https://zhuanlan.zhihu.com/p/51432385)
+- [TCMalloc解密（二）](https://zhuanlan.zhihu.com/p/51433411)
 
 ## 线上问题排查
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
