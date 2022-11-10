@@ -35,6 +35,9 @@
 - [TCMalloc解密（一）](https://zhuanlan.zhihu.com/p/51432385)
 - [TCMalloc解密（二）](https://zhuanlan.zhihu.com/p/51433411)
 - [TCMalloc解密（三）](https://zhuanlan.zhihu.com/p/51433881)
+- [「netty源码」12 他山之石：高性能内存分配器 jemalloc 基本原理](https://mp.weixin.qq.com/s/uuCQ4Rri3h88aHO70SZnOQ)
+- [jemalloc 源码分析](https://youjiali1995.github.io/allocator/jemalloc/#%E8%83%8C%E6%99%AF%E7%9F%A5%E8%AF%86)
+
 
 ## 线上问题排查
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
