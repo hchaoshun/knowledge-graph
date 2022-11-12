@@ -20,7 +20,6 @@
 - [无锁队列的实现](https://coolshell.cn/articles/8239.html)
 
 ## 性能优化
-- [ptmalloc、tcmalloc与jemalloc对比分析](https://www.cyningsun.com/07-07-2018/memory-allocator-contrasts.html#tcmalloc)
 - [内存优化总结tcmalloc与jemalloc-转载](https://zhuanlan.zhihu.com/p/163764191)
 - [磁盘IO性能优化](https://mp.weixin.qq.com/s/ZpNQL7n9RoQ3cZCq_qVMXg)
 - [MySQL 数据库连接数 设置多少合适？如何设置呢？](https://www.huaweicloud.com/zhishi/edits-15756286.html)
@@ -30,6 +29,7 @@
 - [如何提升CPU的缓存命中率？](https://zhuanlan.zhihu.com/p/209181629)
 
 ## 内存管理
+- [一篇文章彻底讲懂malloc的实现（ptmalloc）](https://blog.csdn.net/songchuwang1868/article/details/89951543)
 - [图解 TCMalloc](https://zhuanlan.zhihu.com/p/29216091)
 - [TCMalloc内存分配原理简介](https://www.cnblogs.com/jiujuan/p/13869547.html)
 - [TCMalloc解密（一）](https://zhuanlan.zhihu.com/p/51432385)
@@ -37,6 +37,7 @@
 - [TCMalloc解密（三）](https://zhuanlan.zhihu.com/p/51433881)
 - [「netty源码」12 他山之石：高性能内存分配器 jemalloc 基本原理](https://mp.weixin.qq.com/s/uuCQ4Rri3h88aHO70SZnOQ)
 - [jemalloc 源码分析](https://youjiali1995.github.io/allocator/jemalloc/#%E8%83%8C%E6%99%AF%E7%9F%A5%E8%AF%86)
+- [ptmalloc、tcmalloc与jemalloc对比分析](https://www.cyningsun.com/07-07-2018/memory-allocator-contrasts.html#tcmalloc)
 
 
 ## 线上问题排查
