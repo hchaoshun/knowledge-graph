@@ -27,6 +27,7 @@
 - [后台服务架构高性能设计之道](https://mp.weixin.qq.com/s/hsH7LMBEDGe_df9UbfOvbQ)
 - [高并发服务的几条优化经验](https://mp.weixin.qq.com/s/oUsqQAThoo1mbvMp3WgH8g)
 - [如何提升CPU的缓存命中率？](https://zhuanlan.zhihu.com/p/209181629)
+- [Make your programs run faster by better using the data cache](https://johnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/#tips)
 
 ## 内存管理
 - [一篇文章彻底讲懂malloc的实现（ptmalloc）](https://blog.csdn.net/songchuwang1868/article/details/89951543)
