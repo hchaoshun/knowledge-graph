@@ -60,6 +60,9 @@
 - [高效的数据压缩编码方式 Protobuf](https://halfrost.com/protobuf_encode/)
 - [Protocol Buffers 编码](https://taoshu.in/pb-encoding.html)
 
+## brpc
+- [Brpc 服务端源码分析](https://juejin.cn/post/7134287973066997797)
+
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
 
