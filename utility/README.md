@@ -40,6 +40,7 @@
 ### gcc
 - [GCC and Make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-1.7)
 - [LD_LIBRARY_PATH详解](https://www.jianshu.com/p/a62e1d327023)
+- [GCC 参数详解](https://www.runoob.com/w3cnote/gcc-parameter-detail.html)
 
 ## 类库
 
