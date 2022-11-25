@@ -6,6 +6,9 @@
 - [docker-compose教程](https://blog.csdn.net/pushiqiang/article/details/78682323)
 - [Dockerfile](https://www.cnblogs.com/edisonchou/p/dockerfile_inside_introduction.html)
 
+## service mesh
+- [什么是 Service Mesh](https://zhuanlan.zhihu.com/p/61901608)
+
 ## Git
 - [删除git库中untracked files（未监控）的文件](https://blog.csdn.net/RonnyJiang/article/details/53507306)
 - [git blame的详细用法](https://blog.csdn.net/wq6ylg08/article/details/88909813)
