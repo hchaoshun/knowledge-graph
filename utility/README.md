@@ -6,6 +6,9 @@
 - [docker-compose教程](https://blog.csdn.net/pushiqiang/article/details/78682323)
 - [Dockerfile](https://www.cnblogs.com/edisonchou/p/dockerfile_inside_introduction.html)
 
+## k8s
+- [Kubernetes 入门教程](https://juejin.cn/post/7033600843131666469)
+
 ## service mesh
 - [什么是 Service Mesh](https://zhuanlan.zhihu.com/p/61901608)
 
