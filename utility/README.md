@@ -11,6 +11,7 @@
 
 ## service mesh
 - [什么是 Service Mesh](https://zhuanlan.zhihu.com/p/61901608)
+- [为什么在使用了 Kubernetes 后你可能还需要 Istio？](https://jimmysong.io/blog/why-do-you-need-istio-when-you-already-have-kubernetes/)
 
 ## Git
 - [删除git库中untracked files（未监控）的文件](https://blog.csdn.net/RonnyJiang/article/details/53507306)
