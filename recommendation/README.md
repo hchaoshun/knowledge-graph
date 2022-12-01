@@ -104,4 +104,5 @@
 ## 架构
 - [超详细：完整的推荐系统架构设计](https://mp.weixin.qq.com/s/kC1zSpBTAlswGBL7pw7cUA)
 - [搜索引擎场景下Debug架构设计](https://www.modb.pro/db/190113)
+- [旅游推荐系统的演进](https://tech.meituan.com/2017/03/24/travel-recsys.html)
 
