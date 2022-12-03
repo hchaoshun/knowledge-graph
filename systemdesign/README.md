@@ -63,6 +63,7 @@
 ## brpc
 - [Brpc 服务端源码分析](https://juejin.cn/post/7134287973066997797)
 - [brpc源码解析](https://blog.csdn.net/wxj1992/category_11267957.html)
+- [brpc源码学习（五）-IOBuf](https://blog.csdn.net/KIDGIN7439/article/details/111560093)
 
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
