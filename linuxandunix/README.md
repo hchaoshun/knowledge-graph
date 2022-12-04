@@ -18,6 +18,7 @@ Linux/Unix和网络编程知识汇总
 - [在进程间传递文件描述符](https://www.cnblogs.com/tianzeng/p/10792563.html)
 - [线程池的线程数怎么确定](https://www.jianshu.com/p/78267c8405f4)
 - [brk(）和sbrk()函数的使用](https://blog.csdn.net/yusiguyuan/article/details/39496305)
+- [linux timerfd系列函数总结](https://www.cnblogs.com/wenqiang/p/6698371.html)
 
 ## 计算机网络
 - [图解Https连接过程](https://blog.csdn.net/jinrumorijuesha/article/details/79655561)
