@@ -2,13 +2,9 @@
 Linux/Unix和网络编程知识汇总
 
 ## Linux/Unix
-- [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
-- [IO多路复用之epoll总结](https://www.cnblogs.com/Anker/archive/2013/08/17/3263780.html)
 - [Linux下线程池C实现](https://blog.csdn.net/woxiaohahaa/article/details/51510747)
 - [C 语言实现MySQL连接池](https://blog.csdn.net/qq_36359022/article/details/78771282)
 - [不带缓存的I/O和标准(带缓存的)I/O](https://www.cnblogs.com/youxin/p/4061813.html)
-- [高并发的epoll+线程池](https://blog.csdn.net/libaineu2004/article/details/72822558)
-- [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
 - [Linux惊群效应详解](https://blog.csdn.net/lyztyycode/article/details/78648798)
 - [浅析Linux中的零拷贝技术](https://www.jianshu.com/p/fad3339e3448)
 - [Linux中的零拷贝技术](https://www.zhihu.com/question/35093238/answer/2342212337)
@@ -19,6 +15,14 @@ Linux/Unix和网络编程知识汇总
 - [线程池的线程数怎么确定](https://www.jianshu.com/p/78267c8405f4)
 - [brk(）和sbrk()函数的使用](https://blog.csdn.net/yusiguyuan/article/details/39496305)
 - [linux timerfd系列函数总结](https://www.cnblogs.com/wenqiang/p/6698371.html)
+
+### 多路复用
+- [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
+- [linux内核Epoll 实现原理](https://www.jxhs.me/2021/04/08/linux%E5%86%85%E6%A0%B8Epoll-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
+- [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
+- [高并发的epoll+线程池](https://blog.csdn.net/libaineu2004/article/details/72822558)
+- [IO多路复用之epoll总结](https://www.cnblogs.com/Anker/archive/2013/08/17/3263780.html)
+
 
 ## 计算机网络
 - [图解Https连接过程](https://blog.csdn.net/jinrumorijuesha/article/details/79655561)
