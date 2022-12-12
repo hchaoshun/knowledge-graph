@@ -30,6 +30,10 @@
 - [Make your programs run faster by better using the data cache](https://johnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/#tips)
 - [Multiple threads and CPU cache](https://stackoverflow.com/questions/4802565/multiple-threads-and-cpu-cache)
 
+## Cache Line
+- [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)
+- [False sharing](https://en.wikipedia.org/wiki/False_sharing)
+
 ## 内存管理
 - [一篇文章彻底讲懂malloc的实现（ptmalloc）](https://blog.csdn.net/songchuwang1868/article/details/89951543)
 - [图解 TCMalloc](https://zhuanlan.zhihu.com/p/29216091)
