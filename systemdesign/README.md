@@ -26,11 +26,11 @@
 - [记一次性能优化，单台4核8G机器支撑5万QPS](https://mp.weixin.qq.com/s/5oxix88PCkAJfek6x0nvnw)
 - [后台服务架构高性能设计之道](https://mp.weixin.qq.com/s/hsH7LMBEDGe_df9UbfOvbQ)
 - [高并发服务的几条优化经验](https://mp.weixin.qq.com/s/oUsqQAThoo1mbvMp3WgH8g)
-- [如何提升CPU的缓存命中率？](https://zhuanlan.zhihu.com/p/209181629)
-- [Make your programs run faster by better using the data cache](https://johnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/#tips)
-- [Multiple threads and CPU cache](https://stackoverflow.com/questions/4802565/multiple-threads-and-cpu-cache)
 
 ## Cache Line
+- [如何提升CPU的缓存命中率？](https://zhuanlan.zhihu.com/p/209181629)
+- [Multiple threads and CPU cache](https://stackoverflow.com/questions/4802565/multiple-threads-and-cpu-cache)
+- [Make your programs run faster by better using the data cache](https://johnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/#tips)
 - [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)
 - [False sharing](https://en.wikipedia.org/wiki/False_sharing)
 
