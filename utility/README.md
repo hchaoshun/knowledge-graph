@@ -77,6 +77,7 @@
 - [如何看懂火焰图](https://cloud.tencent.com/developer/article/1873597)
 - [linux命令-- pstack命令(跟踪进程栈)](https://www.cnblogs.com/kongzhongqijing/articles/7685699.html)
 - [perf](http://linux.51yip.com/search/perf)
+- [perf 性能分析实例——使用perf优化cache利用率](https://blog.csdn.net/trochiluses/article/details/17346803)
 - [Linux性能监控命令——sar详解](https://blog.51cto.com/moerjinrong/2092371)
 - [Linux 命令神器：lsof](https://www.jianshu.com/p/a3aa6b01b2e1)
 - [Linux strace命令](https://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316692.html)
