@@ -93,6 +93,7 @@
 - [The Go Empty Interface Explained](https://flaviocopes.com/go-empty-interface/)
 - [Golang面试题](https://www.kancloud.cn/cserli/golang/530431)
 - [Golang Label使用方法](https://www.jianshu.com/p/73fb21401d41)
+- [Go 并发编程篇（二）：协程实现原理及使用入门](https://geekr.dev/posts/g-m-p-model-and-goroutine-sample)
 
 ### Golang 官方blog
 - [Golang slices](https://blog.golang.org/slices-intro)
