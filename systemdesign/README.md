@@ -46,6 +46,9 @@
 - [jemalloc 源码分析](https://youjiali1995.github.io/allocator/jemalloc/#%E8%83%8C%E6%99%AF%E7%9F%A5%E8%AF%86)
 - [ptmalloc、tcmalloc与jemalloc对比分析](https://www.cyningsun.com/07-07-2018/memory-allocator-contrasts.html#tcmalloc)
 
+## GC
+- [底层原理：垃圾回收算法是如何设计的？](https://developer.aliyun.com/article/777750)
+
 
 ## 线上问题排查
 - [系统CPU飙高排查](https://www.zhihu.com/question/344856364/answer/2435969658)
