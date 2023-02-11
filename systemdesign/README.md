@@ -48,6 +48,7 @@
 
 ## GC
 - [底层原理：垃圾回收算法是如何设计的？](https://developer.aliyun.com/article/777750)
+- [详解JVM 的垃圾回收算法和垃圾回收器](https://www.51cto.com/article/704422.html)
 
 
 ## 线上问题排查
