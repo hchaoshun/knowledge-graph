@@ -90,6 +90,8 @@
 - [微博推荐算法实践与机器学习平台演进](https://zhuanlan.zhihu.com/p/447415588)
 - [美团搜索粗排优化的探索与实践](https://mp.weixin.qq.com/s/L-ut5sH7VjaVk3IuR7ZRmw)
 - [详解闲鱼推荐系统（长文收藏）](https://mp.weixin.qq.com/s/ymedjPLZXYXZQ3A4NUnFsQ)
+- [AI 训练加速原理解析与工程实践分享 | Q推荐](https://mp.weixin.qq.com/s/6uw8Su4dOrJl63lQgqbrJw)
+- [AI 推理加速原理解析与工程实践分享 | Q推荐](https://mp.weixin.qq.com/s/aMW-nHcugrDQLnZCxdAKOg)
 
 ## 广告
 - [计算广告生态概述](https://www.zhihu.com/column/fuliucansheng)
