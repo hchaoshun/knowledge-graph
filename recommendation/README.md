@@ -48,6 +48,7 @@
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
 - [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 - [亿级向量相似度检索库Faiss 原理+应用](https://mp.weixin.qq.com/s/EtnTDkaXwVNMXKagIw9JCg)
+- [Hierarchical Navigable Small Worlds (HNSW)](https://www.pinecone.io/learn/hnsw/)
 - [「向量召回」相似检索算法——HNSW](https://mp.weixin.qq.com/s/dfdNj9CZ3Kj2UwDr9PQcVg)
 - [推荐系统中的召回算法——HNSW[1]](https://mp.weixin.qq.com/s/cpL69BE2AU7ODYpKw6c9YQ)
 - [推荐系统中的召回算法——HNSW[2]](https://mp.weixin.qq.com/s?__biz=Mzg5MzczMjc3Nw==&mid=2247484999&idx=1&sn=7d3b80b6e95d6b51bb0937992cbdb103&chksm=c02b1481f75c9d978bfc90e9763ed8d271e1e516c3fe311674d4fcd34beda81a625f1cd3800a&cur_album_id=2364738455672356865&scene=189#wechat_redirect)
