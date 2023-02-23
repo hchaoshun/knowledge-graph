@@ -83,6 +83,7 @@
 ## tensorflow serving
 - [Tensorflow Serving源码详解](https://blog.csdn.net/weixin_38616705/article/details/107386014)
 - [TensorFlow Serving的原理和代码实现](https://blog.csdn.net/xlie/article/details/81949947)
+- [基于TensorFlow Serving的深度学习在线预估](https://tech.meituan.com/2018/10/11/tfserving-improve.html)
 
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
