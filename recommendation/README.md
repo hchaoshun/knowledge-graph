@@ -37,6 +37,7 @@
 - [工业界推荐系统怎么做特征？](https://www.zhihu.com/question/419906651/answer/1459124132)
 - [推荐系统特征工程高级技巧总结](https://mp.weixin.qq.com/s/NzbrfI9h_vjllUCkDyKadg)
 - [机器学习中的数据清洗与特征处理综述](https://tech.meituan.com/2015/02/10/machinelearning-data-feature-process.html)
+- [特征平台：定义、架构、工作流程和开源实现概述](https://mp.weixin.qq.com/s/fdtaDiMmIZosTJp615hK9Q)
 
 
 ## 用户画像
