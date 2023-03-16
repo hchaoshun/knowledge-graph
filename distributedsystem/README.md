@@ -17,6 +17,7 @@
 - [分布式唯一ID的几种生成方案](https://juejin.im/post/5b3a23746fb9a024e15cad79)
 - [分布式session解决方案](https://blog.csdn.net/qq_35620501/article/details/95047642)
 - [乐观锁和悲观锁](https://www.cnblogs.com/kismetv/p/10787228.html)
+- [ETCD对比Consul和zooKeeper如何选型](https://boilingfrog.github.io/2021/09/16/etcd%E5%AF%B9%E6%AF%94consul%E5%92%8CzooKeeper/)
 
 ## Google
 - [关于MapReduce的理解？](https://www.zhihu.com/question/23345991/answer/97271355)
