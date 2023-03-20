@@ -88,6 +88,10 @@
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
 
+## 硬核课堂
+- [hard core home page](https://hardcore.feishu.cn/wiki/wikcn9i4sfdTkxVX0DYrMMbNBpd#)
+- [系统延迟的优化策略](https://nxwz51a5wp.feishu.cn/docs/doccnKV6gYLVLrMz5MLBTfXCKFd#)
+
 ## 业界系统设计案例
 - [短视频个性化Push工程精进之路](https://mp.weixin.qq.com/s/BsMQ1alfSdfaHWkM9K2Vzw)
 - [“一天宕机三次”，为什么高并发这么难？](https://mp.weixin.qq.com/s/g4c7ovftzkTYRSfuRtgn7A)
