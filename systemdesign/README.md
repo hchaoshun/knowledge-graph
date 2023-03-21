@@ -5,6 +5,9 @@
 - [Difference between sequential write and random write](https://stackoverflow.com/questions/2100584/difference-between-sequential-write-and-random-write)
 - [何为微服务、网关、服务发现/注册？](https://mp.weixin.qq.com/s/EFx-9H5SoquRgTLBzqqa5Q)
 
+## 缓存
+- [缓存更新的套路](https://coolshell.cn/articles/17416.html)
+
 ## 系统设计方案
 - [高可用性系统在大众点评的实践与经验](https://tech.meituan.com/2016/02/04/high-availability-systems-dianping.html)
 - [双缓冲机制](https://blog.csdn.net/farmwang/article/details/70054360)
