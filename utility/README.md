@@ -8,6 +8,7 @@
 
 ## k8s
 - [Kubernetes 入门教程](https://juejin.cn/post/7033600843131666469)
+- [K8S架构原理详解](https://mp.weixin.qq.com/s/K_5lj7Jb3qhCYbgWAh_yCQ)
 
 ## service mesh
 - [什么是 Service Mesh](https://zhuanlan.zhihu.com/p/61901608)
