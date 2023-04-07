@@ -38,6 +38,11 @@
 - [redolog与binlog为什么需要两阶段提交？](https://cloud.tencent.com/developer/article/1790507)
 - [MySQL 性能优化神器 Explain 使用分析](https://segmentfault.com/a/1190000008131735)
 
+## TiDB
+- [三篇文章了解 TiDB 技术内幕 - 说存储](https://cn.pingcap.com/blog/tidb-internal-1)
+- [三篇文章了解 TiDB 技术内幕 - 说计算](https://cn.pingcap.com/blog/tidb-internal-2)
+- [三篇文章了解 TiDB 技术内幕 - 谈调度](https://cn.pingcap.com/blog/tidb-internal-3)
+
   
 ## 非关系型数据库
 - [Explanation of BASE terminology](https://stackoverflow.com/questions/3342497/explanation-of-base-terminology)
