@@ -42,6 +42,7 @@
 - [三篇文章了解 TiDB 技术内幕 - 说存储](https://cn.pingcap.com/blog/tidb-internal-1)
 - [三篇文章了解 TiDB 技术内幕 - 说计算](https://cn.pingcap.com/blog/tidb-internal-2)
 - [三篇文章了解 TiDB 技术内幕 - 谈调度](https://cn.pingcap.com/blog/tidb-internal-3)
+- [Embracing NewSQL: Why We Chose TiDB over MongoDB and MySQL](https://www.pingcap.com/case-study/embracing-newsql-why-we-chose-tidb-over-mongodb-and-mysql/)
 
   
 ## 非关系型数据库
