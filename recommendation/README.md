@@ -53,6 +53,7 @@
 - [「向量召回」相似检索算法——HNSW](https://mp.weixin.qq.com/s/dfdNj9CZ3Kj2UwDr9PQcVg)
 - [推荐系统中的召回算法——HNSW[1]](https://mp.weixin.qq.com/s/cpL69BE2AU7ODYpKw6c9YQ)
 - [推荐系统中的召回算法——HNSW[2]](https://mp.weixin.qq.com/s?__biz=Mzg5MzczMjc3Nw==&mid=2247484999&idx=1&sn=7d3b80b6e95d6b51bb0937992cbdb103&chksm=c02b1481f75c9d978bfc90e9763ed8d271e1e516c3fe311674d4fcd34beda81a625f1cd3800a&cur_album_id=2364738455672356865&scene=189#wechat_redirect)
+- [赋能阿里多业务场景，达摩院自研向量检索引擎 Proxima 公开](https://damo.alibaba.com/events/112?lang=zh)
 - [推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982)
 - [闲聊推荐系统中的曝光过滤机制](https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&mid=2247500277&idx=1&sn=17d7277c0e7c664b0750c3020a8e6d47&chksm=ea65096fdd1280797e63d66fe023a3ad4bcb693afbdfe44106872a089e8baf8228e63795ff68&scene=21#wechat_redirect)
 - [SENet双塔模型：在推荐领域召回粗排的应用及其它](https://zhuanlan.zhihu.com/p/358779957)
