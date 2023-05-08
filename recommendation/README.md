@@ -110,6 +110,9 @@
 - [计算广告与推荐系统有哪些区别？ - 王喆的回答 - 知乎](https://www.zhihu.com/question/19662693/answer/757347092)
 - [达观数据：计算广告系统算法与架构综述](https://zhuanlan.zhihu.com/p/60544294)
 
+## 电商
+- [电商项目中的 SPU 和 SKU 有什么区别？ 原创](https://blog.51cto.com/u_15287666/3021182)
+
 ## 架构
 - [超详细：完整的推荐系统架构设计](https://mp.weixin.qq.com/s/kC1zSpBTAlswGBL7pw7cUA)
 - [搜索引擎场景下Debug架构设计](https://www.modb.pro/db/190113)
