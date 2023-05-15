@@ -18,7 +18,7 @@ Linux/Unix和网络编程知识汇总
 
 ### 多路复用
 - [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
-- [linux内核Epoll 实现原理](https://www.jxhs.me/2021/04/08/linux%E5%86%85%E6%A0%B8Epoll-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
+- [linux内核Epoll 实现原理](https://blog.csdn.net/K346K346/article/details/127432458)
 - [epoll下ET模式为何一定要用要用非阻塞的模式](https://blog.csdn.net/ldw662523/article/details/79912070)
 - [高并发的epoll+线程池](https://blog.csdn.net/libaineu2004/article/details/72822558)
 - [IO多路复用之epoll总结](https://www.cnblogs.com/Anker/archive/2013/08/17/3263780.html)
