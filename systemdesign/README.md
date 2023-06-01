@@ -85,6 +85,9 @@
 - [深入浅出 gRPC 03：gRPC 线程模型分析](https://blog.csdn.net/fly910905/article/details/104160199)
 - [深入了解 gRPC：协议](https://cn.pingcap.com/blog/grpc)
 
+## Nginx
+- [nginx 多进程架构详解](https://cloud.tencent.com/developer/article/1181573)
+
 ## tensorflow serving
 - [Tensorflow Serving源码详解](https://blog.csdn.net/weixin_38616705/article/details/107386014)
 - [TensorFlow Serving的原理和代码实现](https://blog.csdn.net/xlie/article/details/81949947)
