@@ -99,6 +99,7 @@
 - [AI 训练加速原理解析与工程实践分享 | Q推荐](https://mp.weixin.qq.com/s/6uw8Su4dOrJl63lQgqbrJw)
 - [AI 推理加速原理解析与工程实践分享 | Q推荐](https://mp.weixin.qq.com/s/aMW-nHcugrDQLnZCxdAKOg)
 - [解密游戏推荐系统的建设之路](https://mp.weixin.qq.com/s/WU5BvODf3oc_1UAsZ3fQ8A)
+- [亿级用户，腾讯看点信息流推荐系统的架构挑战](https://www.cnblogs.com/qcloud1001/p/13841020.html)
 
 ## 广告
 - [计算广告生态概述](https://www.zhihu.com/column/fuliucansheng)
