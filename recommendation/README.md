@@ -10,6 +10,10 @@
 ## 算法
 - [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
 
+## 机器学习平台
+- [机器学习平台建设](https://microsoft.github.io/ai-edu/%E5%AE%9E%E8%B7%B5%E6%A1%88%E4%BE%8B/B10-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE/)
+- [一篇文章读懂什么是机器学习平台](https://www.woshipm.com/ai/4872402.html)
+
 ## 推荐系统模型
 ### 传统模型
 - [FM（Factorization Machines）的理论与实践](https://zhuanlan.zhihu.com/p/50426292)
