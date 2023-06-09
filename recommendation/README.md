@@ -92,6 +92,7 @@
 - [什么是实时数仓](https://mp.weixin.qq.com/s/8SdXPbntu6IUXZxLf9kGcw)
 
 ## 业界推荐系统
+- [小红书 | 高时效召排推荐架构](https://mp.weixin.qq.com/s/svORhpgwiOauwEfUAeM-_Q)
 - [微信「看一看」 推荐排序技术揭秘](https://www.jiqizhixin.com/articles/2020-07-21-16)
 - [推荐系统中模型训练及使用流程的标准化](https://mp.weixin.qq.com/s/NrPWwx1N68UH6RmnJi1uGw)
 - [蜻蜓FM信息流推荐探索与实践](https://mp.weixin.qq.com/s/NTwW1CvnvRJjxHoUjWxAmA)
