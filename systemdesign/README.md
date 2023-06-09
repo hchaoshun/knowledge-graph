@@ -8,6 +8,9 @@
 ## 缓存
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
+## 稳定性建设
+- [稳定性全系列（一）：如何做好系统稳定性建设](https://www.infoq.cn/article/z4ssmnks3w4ebbustyo1)
+
 ## 系统设计方案
 - [高可用性系统在大众点评的实践与经验](https://tech.meituan.com/2016/02/04/high-availability-systems-dianping.html)
 - [双缓冲机制](https://blog.csdn.net/farmwang/article/details/70054360)
