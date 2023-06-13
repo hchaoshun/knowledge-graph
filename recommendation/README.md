@@ -6,6 +6,7 @@
 - [23张图，带你入门推荐系统](https://mp.weixin.qq.com/s/d6bCGT8B4h5pfI77TvLicA)
 - [推荐系统架构与算法流程详解](https://mp.weixin.qq.com/s/xfzUJupEG2C2_6Wl1qxaDA)
 - [电商搜索全链路复盘](https://mp.weixin.qq.com/s/R40TRBGD9J_WgXIbBaDoGw)
+- [完整的推荐系统架构设计](https://xie.infoq.cn/article/e1db36aecf60b4da29f56eeb4)
 
 ## 算法
 - [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
