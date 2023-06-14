@@ -10,6 +10,7 @@
 
 ## 稳定性建设
 - [稳定性全系列（一）：如何做好系统稳定性建设](https://www.infoq.cn/article/z4ssmnks3w4ebbustyo1)
+- [腾讯搜索的系统架构是如何达到99.994%高可用的？](https://mp.weixin.qq.com/s/9AU-6wrbYPAkOTqb9cJDXg)
 
 ## 系统设计方案
 - [高可用性系统在大众点评的实践与经验](https://tech.meituan.com/2016/02/04/high-availability-systems-dianping.html)
