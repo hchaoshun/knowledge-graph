@@ -4,6 +4,7 @@
 ## 关系型数据库
 
 ### 数据库基础
+- [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.md#%E5%85%ADnext-key-locks)
 - [如何理解关系型数据库的常见设计范式？](https://www.zhihu.com/question/24696366/answer/29189700)
 - [深入浅出数据库索引原理](https://zhuanlan.zhihu.com/p/23624390)
 - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
