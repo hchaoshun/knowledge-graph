@@ -72,6 +72,7 @@
 - [Redis的事务满足原子性吗？](https://www.51cto.com/article/681240.html)
 - [如何保证缓存与数据库双写时的数据一致性？](https://mp.weixin.qq.com/s/uL1EW1W2mwrzAbtFNyAruw)
 - [Redis 内存优化在 vivo 的探索与实践](https://mp.weixin.qq.com/s/DII_XLQ5hrLtOWH2YoU0Cw)
+- [Redis10大性能优化策略](https://mp.weixin.qq.com/s/A_cAHMTRM-BsmwBoq_CK6g)
 
 ### Elasticsearch
 - [Elasticsearch系列---初识Elasticsearch](https://juejin.cn/post/6844903994054148110)
