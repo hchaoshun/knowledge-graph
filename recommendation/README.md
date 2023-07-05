@@ -38,6 +38,7 @@
 - [转化率](https://wiki.mbalib.com/wiki/%E8%BD%AC%E5%8C%96%E7%8E%87#:~:text=%E8%BD%AC%E5%8C%96%E7%8E%87%E6%98%AF%E6%8C%87%E5%9C%A8,%E7%82%B9%E5%87%BB%E9%87%8F%EF%BC%89%C3%97100%25%E3%80%82&text=%E6%8C%87%E6%A0%87%E6%84%8F%E4%B9%89%EF%BC%9A%E8%A1%A1%E9%87%8F%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9,%E4%BB%A5%E5%8F%8A%E7%BD%91%E7%AB%99%E7%9A%84%E5%AE%A3%E4%BC%A0%E6%95%88%E6%9E%9C%E3%80%82)
 - [数据指标有哪些？什么是好的数据指标？](http://www.woshipm.com/data-analysis/3747471.html)
 - [小视频向左，短视频向右：快手们时长限制背后的逻辑](http://www.woshipm.com/it/813398.html)
+- [从狂热到理性：大模型训练三堵墙，一场少数人的游戏 | 钛媒体深度](https://mp.weixin.qq.com/s/mWW3dcpyp9BuUs0XVUMg9A)
 
 ## 特征工程
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
