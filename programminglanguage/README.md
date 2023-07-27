@@ -105,3 +105,4 @@
 - [JVM 的 工作原理，层次结构 以及 GC工作原理](https://segmentfault.com/a/1190000002579346)
 - [HashMap的实现原理及hash冲突解决方法](https://blog.csdn.net/ptsx0607/article/details/68945883)
 - [Guide to the Synchronized Keyword in Java](https://www.baeldung.com/java-synchronized)
+- [Java 注解](https://www.cnblogs.com/acm-bingzi/p/javaAnnotation.html)
