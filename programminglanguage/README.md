@@ -107,3 +107,4 @@
 - [Guide to the Synchronized Keyword in Java](https://www.baeldung.com/java-synchronized)
 - [Java 注解](https://www.cnblogs.com/acm-bingzi/p/javaAnnotation.html)
 - [java的泛型特性](https://www.cnblogs.com/Blue-Keroro/p/8875898.html)
+- [What Is a Pojo Class?](https://www.baeldung.com/java-pojo-class)
