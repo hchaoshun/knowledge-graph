@@ -108,3 +108,4 @@
 - [Java 注解](https://www.cnblogs.com/acm-bingzi/p/javaAnnotation.html)
 - [java的泛型特性](https://www.cnblogs.com/Blue-Keroro/p/8875898.html)
 - [What Is a Pojo Class?](https://www.baeldung.com/java-pojo-class)
+- [控制反转（IoC）与依赖注入（DI）](https://www.jianshu.com/p/07af9dbbbc4b)
