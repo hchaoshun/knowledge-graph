@@ -21,6 +21,7 @@
 - [神经网络讲解视频](https://space.bilibili.com/88461692/channel/detail?cid=26587)
 - [神经网络浅讲：从神经元到深度学习](https://www.cnblogs.com/subconscious/p/5058741.html)
 - [一文弄懂神经网络中的反向传播法——BackPropagation](https://www.cnblogs.com/charlotte77/p/5629865.html)
+- [详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
 
 ## TensorFlow
 
