@@ -50,6 +50,7 @@
 - [推荐系统特征工程高级技巧总结](https://mp.weixin.qq.com/s/NzbrfI9h_vjllUCkDyKadg)
 - [机器学习中的数据清洗与特征处理综述](https://tech.meituan.com/2015/02/10/machinelearning-data-feature-process.html)
 - [特征平台：定义、架构、工作流程和开源实现概述](https://mp.weixin.qq.com/s/fdtaDiMmIZosTJp615hK9Q)
+- [What is a Feature Store for Machine Learning?](https://www.featurestore.org/what-is-a-feature-store)
 
 
 ## 用户画像
