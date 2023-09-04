@@ -110,3 +110,5 @@
 - [What Is a Pojo Class?](https://www.baeldung.com/java-pojo-class)
 - [控制反转（IoC）与依赖注入（DI）](https://www.jianshu.com/p/07af9dbbbc4b)
 - [什么是面向切面编程AOP？](https://www.zhihu.com/question/24863332/answer/48376158)
+- [Java开发新手必读：PO、VO、DAO、BO、DTO、POJO，区别在哪儿？](https://baijiahao.baidu.com/s?id=1760961519162362247&wfr=spider&for=pc)
+- [Java DTO、VO 和 PO 解释与使用示例](https://zhuanlan.zhihu.com/p/645283758)
