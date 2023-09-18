@@ -1,6 +1,9 @@
 # 工具汇总
 常用工具汇总
 
+## 推荐系统
+- [深度解析开源推荐算法框架EasyRec的核心概念和优势](https://cloud.tencent.com/developer/article/2145663)
+
 ## Docker
 - [Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 - [docker-compose教程](https://blog.csdn.net/pushiqiang/article/details/78682323)
