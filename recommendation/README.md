@@ -18,6 +18,9 @@
 - [一篇文章读懂什么是机器学习平台](https://www.woshipm.com/ai/4872402.html)
 - [云原生深度学习平台 PAI-DLC 架构设计](https://mp.weixin.qq.com/s/73JWA2cmY2JPszE5CX1unQ)
 
+### 在线推理
+- [Speeding Up Deep Learning Inference Using NVIDIA TensorRT](https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt-updated/)
+
 ## 推荐工程问题
 - [vivo 短视频推荐去重服务的设计实践](https://www.51cto.com/article/705399.html)
 
