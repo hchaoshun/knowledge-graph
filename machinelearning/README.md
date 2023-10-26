@@ -19,6 +19,7 @@
 ## 推理优化
 ### TensorRT
 - [Speeding Up Deep Learning Inference Using TensorFlow, ONNX, and NVIDIA TensorRT](https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorflow-onnx-and-tensorrt/)
+- [Accelerating Deep Learning Inference for Machine Vision](https://medium.com/@fractal.ai/accelerating-deep-learning-inference-for-machine-vision-using-onnx-and-tensorrt-d43351680345)
 
 ## 机器学习算法
 - [决策树](https://easyai.tech/ai-definition/decision-tree/#:~:text=%E9%A2%84%E6%B5%8B%E6%97%B6%EF%BC%8C%E5%9C%A8%E6%A0%91%E7%9A%84,%E6%80%9D%E7%BB%B4%EF%BC%8C%E6%9C%89%E7%9D%80%E5%B9%BF%E6%B3%9B%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82)
