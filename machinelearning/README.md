@@ -12,6 +12,7 @@
 
 ## Deep Learning
 - [Why Deep Learning Uses GPUs](https://deeplizard.com/learn/video/6stDhEA0wFQ)
+- [深度学习中Dropout原理解析](https://zhuanlan.zhihu.com/p/38200980)
 
 ## LLM
 - [一文读懂AI大模型发展历程](http://www.impcia.net/artificial/details_79.html)
