@@ -106,6 +106,9 @@
 - [Airflow快速学习入门](https://segmentfault.com/a/1190000039923621?utm_source=tag-newest)
 - [什么是实时数仓](https://mp.weixin.qq.com/s/8SdXPbntu6IUXZxLf9kGcw)
 
+## 在线学习
+- [在线学习（online learning）的总结](https://juejin.cn/post/7097942174372888606)
+
 ## 业界推荐系统
 - [小红书 | 高时效召排推荐架构](https://mp.weixin.qq.com/s/svORhpgwiOauwEfUAeM-_Q)
 - [微信「看一看」 推荐排序技术揭秘](https://www.jiqizhixin.com/articles/2020-07-21-16)
