@@ -14,6 +14,7 @@
 - [Why Deep Learning Uses GPUs](https://deeplizard.com/learn/video/6stDhEA0wFQ)
 - [深度学习中Dropout原理解析](https://zhuanlan.zhihu.com/p/38200980)
 - [动量梯度下降法Momentum](https://terrifyzhao.github.io/2018/02/16/%E5%8A%A8%E9%87%8F%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95Momentum.html)
+- [深度学习优化算法解析(Momentum, RMSProp, Adam)](https://blog.csdn.net/willduan1/article/details/78070086)
 - [Batch Normalization原理与实战](https://zhuanlan.zhihu.com/p/34879333)
 
 ## LLM
