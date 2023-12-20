@@ -20,6 +20,7 @@
 ## LLM
 - [一文读懂AI大模型发展历程](http://www.impcia.net/artificial/details_79.html)
 - [解读大模型（LLM）的token](https://mp.weixin.qq.com/s/8jJVA7_6XSNo6xyG-OxovA)
+- [从 MLOps 到 LMOps 的关键技术嬗变](https://mp.weixin.qq.com/s/dfGVC7yCYr8DHw_Otk8J8Q)
 
 ## 推理优化
 ### TensorRT
