@@ -14,6 +14,7 @@
 - [K8S架构原理详解](https://mp.weixin.qq.com/s/K_5lj7Jb3qhCYbgWAh_yCQ)
 - [Perform Kubernetes Deployment Rolling Updates in Java](https://itnext.io/perform-kubernetes-deployment-rolling-updates-in-java-2a133dbe6e7e)
 - [How Deployment, Service & Ingress are Related in Kubernetes Manifest?](https://mp.weixin.qq.com/s/NU8Cj6DL8wEKFzVYhuyzbQ)
+- [跑AI大模型的K8s与普通K8s有什么不同？](https://mp.weixin.qq.com/s/dhz7BmtsDAH8tr2_ez7-bg)
 
 ## service mesh
 - [什么是 Service Mesh](https://zhuanlan.zhihu.com/p/61901608)
