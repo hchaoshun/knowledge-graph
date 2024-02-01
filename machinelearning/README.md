@@ -29,6 +29,7 @@
 - [Andrej Karpathy《大模型快速入门》（全文）](https://mp.weixin.qq.com/s/aCbe9LU6NyPUS-Z1Vv90iw)
 - [CUDA编程入门极简教程](https://zhuanlan.zhihu.com/p/34587739)
 - [Introduction to Weight Quantization](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
+- [RLHF何以成LLM训练关键](https://www.51cto.com/article/767048.html)
 
 ## 推理优化
 ### TensorRT
