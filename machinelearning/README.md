@@ -30,6 +30,7 @@
 - [CUDA编程入门极简教程](https://zhuanlan.zhihu.com/p/34587739)
 - [Introduction to Weight Quantization](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
 - [RLHF何以成LLM训练关键](https://www.51cto.com/article/767048.html)
+- [What Are LLM Agents ? An Overview of Their Capabilities](https://gptpluginz.com/llm-agents/)
 
 ## 推理优化
 ### TensorRT
