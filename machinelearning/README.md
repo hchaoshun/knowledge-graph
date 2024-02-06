@@ -31,6 +31,7 @@
 - [Introduction to Weight Quantization](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html)
 - [RLHF何以成LLM训练关键](https://www.51cto.com/article/767048.html)
 - [What Are LLM Agents ? An Overview of Their Capabilities](https://gptpluginz.com/llm-agents/)
+- [State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程](https://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247485342&idx=1&sn=770152ca8a00f2e3d87ed2a09e131e11)
 
 ## 推理优化
 ### TensorRT
