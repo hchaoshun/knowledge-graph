@@ -34,6 +34,10 @@
 - [State of GPT：大神Andrej揭秘OpenAI大模型原理和训练过程](https://mp.weixin.qq.com/s?__biz=MzIxODUzNTg2MA==&mid=2247485342&idx=1&sn=770152ca8a00f2e3d87ed2a09e131e11)
 
 ## 推理优化
+### LLM
+- [图解大模型推理优化之 KV Cache](https://mp.weixin.qq.com/s/6q2LmwoFG2LcN0iHoZjjqw)
+
+
 ### TensorRT
 - [Speeding Up Deep Learning Inference Using TensorFlow, ONNX, and NVIDIA TensorRT](https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorflow-onnx-and-tensorrt/)
 - [Accelerating Deep Learning Inference for Machine Vision](https://medium.com/@fractal.ai/accelerating-deep-learning-inference-for-machine-vision-using-onnx-and-tensorrt-d43351680345)
