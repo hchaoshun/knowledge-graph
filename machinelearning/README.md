@@ -39,6 +39,7 @@
 ## 推理优化
 ### LLM
 - [图解大模型推理优化之 KV Cache](https://mp.weixin.qq.com/s/6q2LmwoFG2LcN0iHoZjjqw)
+- [vLLM PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
 
 
 ### TensorRT
