@@ -35,6 +35,7 @@
 - [LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2)
 - [聊一聊大模型幻觉：起因、评估及缓解策略探索](https://mp.weixin.qq.com/s/c7CCsB18HmuB3G1WnAHwdQ)
 - [大模型思维链（Chain-of-Thought）技术原理](https://www.zhihu.com/tardis/zm/art/629087587?source_id=1003)
+- [LoRA: Efficient Model Fine-tuning](https://chat.openai.com/share/c5ef0067-3e88-409e-b574-5295981be369)
 
 ## 推理优化
 ### LLM
