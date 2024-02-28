@@ -19,7 +19,8 @@
 - [Python之协程](https://www.cnblogs.com/russellyoung/p/python-zhi-xie-cheng.html)
 - [Python 直接赋值、浅拷贝和深度拷贝解析](https://www.runoob.com/w3cnote/python-understanding-dict-copy-shallow-or-deep.html)
 - [全局解释器锁GIL(注意gil对io密集型和cpu密集型的影响)](https://zhuanlan.zhihu.com/p/67349209)
-- [关于NRV优化详细分析](https://blog.csdn.net/FreeeLinux/article/details/53941190)
+- [Python Type Hinting](https://realpython.com/lessons/type-hinting/)
+
 
 ## C
 - [深入 char * ,char ** ,char a[ ] ,char *a[] 内核](https://blog.csdn.net/daiyutage/article/details/8604720?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
@@ -61,6 +62,7 @@
 - [源码分析C++的string的实现](https://cloud.tencent.com/developer/article/1755459)
 - [copy-on-write 在c++ std::string中的应用](https://blog.csdn.net/D_Guco/article/details/79833665#:~:text=Copy%2DOn%2DWrite%E7%AE%80%E7%A7%B0COW,%E7%A7%8D%E5%BB%B6%E6%97%B6%E6%87%92%E6%83%B0%E7%AD%96%E7%95%A5.)
 - [new 一个对象，用free去释放，会有什么问题](https://blog.csdn.net/u010732356/article/details/53958393)
+- [关于NRV优化详细分析](https://blog.csdn.net/FreeeLinux/article/details/53941190)
 
 ### c++11以后的新特性
 - [为什么多线程读写 shared_ptr 要加锁](https://blog.csdn.net/Solstice/article/details/8547547)
