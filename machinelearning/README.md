@@ -42,6 +42,7 @@
 - [CPU 和 GPU 的区别是什么？](https://www.zhihu.com/question/19903344/answer/96081382)
 - [图解大模型推理优化之 KV Cache](https://mp.weixin.qq.com/s/6q2LmwoFG2LcN0iHoZjjqw)
 - [vLLM PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
+- [模型量化综述及应用](https://bbs.huaweicloud.com/blogs/293961)
 
 
 ### TensorRT
