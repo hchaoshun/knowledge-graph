@@ -69,6 +69,7 @@
 - [Top-5 Painless Data Augmentation Techniques With TensorFlow](https://www.machinelearningmindset.com/data-augmentation-with-tensorflow/#dataset)
 - [An Advanced Example of the Tensorflow Estimator Class](https://towardsdatascience.com/an-advanced-example-of-tensorflow-estimators-part-1-3-c9ffba3bff03)
 - [探索TensorFlow的运行原理：TensorFlow是如何运行的？](https://zhuanlan.zhihu.com/p/629303544)
+- [tensorflow estimator](https://chat.openai.com/share/6c4acce5-0ee1-4708-b38c-a12ffb2f6a64)
 
 ## 强化学习
 - [强化学习-Reinforcement learning | RL](https://easyai.tech/ai-definition/reinforcement-learning/)
