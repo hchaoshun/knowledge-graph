@@ -32,6 +32,9 @@
 <vi, vj> 两个参数是分开的，不完全由xi * xj决定，只要有一个xi * xk 不为0, vi就能学到东西，同理vj也一样，
 这样即使 xi * xj 为0， vi, vj也能学习更新)
 
+### 深度学习模型
+- [推荐系统之Deep Crossing模型原理以及代码实践](https://www.jianshu.com/p/e1873e9a97ad)
+
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
 - [CTR预估解析](https://www.meihua.info/a/72378)
