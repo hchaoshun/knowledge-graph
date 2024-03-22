@@ -34,7 +34,8 @@
 
 ### 深度学习模型
 - [推荐系统之Deep Crossing模型原理以及代码实践](https://www.jianshu.com/p/e1873e9a97ad)
-- [[深度模型] 经典Wide & Deep模型架构介绍](https://zhuanlan.zhihu.com/p/139358172)
+- [深度模型 经典Wide & Deep模型架构介绍](https://zhuanlan.zhihu.com/p/139358172)
+- [DSSM模型结构及原理](https://github.com/datawhalechina/fun-rec/blob/master/docs/ch03/ch3.2/3.2.4.3.md)
 
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
