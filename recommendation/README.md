@@ -37,6 +37,8 @@
 - [深度模型 经典Wide & Deep模型架构介绍](https://zhuanlan.zhihu.com/p/139358172)
 - [DSSM模型结构及原理](https://github.com/datawhalechina/fun-rec/blob/master/docs/ch03/ch3.2/3.2.4.3.md)
 - [DCN网络](https://datawhalechina.github.io/fun-rec/#/ch02/ch2.2/ch2.2.2/DCN)
+- [多任务学习模型之ESMM介绍与实现](https://zhuanlan.zhihu.com/p/453034063)
+- [MMOE模型](https://datawhalechina.github.io/fun-rec/#/ch02/ch2.2/ch2.2.5/MMOE)
 
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
