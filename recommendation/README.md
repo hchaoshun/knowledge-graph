@@ -132,6 +132,7 @@
 - [解密游戏推荐系统的建设之路](https://mp.weixin.qq.com/s/WU5BvODf3oc_1UAsZ3fQ8A)
 - [亿级用户，腾讯看点信息流推荐系统的架构挑战](https://www.cnblogs.com/qcloud1001/p/13841020.html)
 - [降本提效，贝壳搜索推荐架构统一之路](https://www.cnblogs.com/qcloud1001/p/13841056.html)
+- [深度学习在58商业排序的应用实践](https://mp.weixin.qq.com/s/2SRGdFZ9RVl4ljBh5MIUqQ)
 
 ## 广告
 - [计算广告生态概述](https://www.zhihu.com/column/fuliucansheng)
