@@ -63,6 +63,7 @@
 - [特征平台：定义、架构、工作流程和开源实现概述](https://mp.weixin.qq.com/s/fdtaDiMmIZosTJp615hK9Q)
 - [What is a Feature Store for Machine Learning?](https://www.featurestore.org/what-is-a-feature-store)
 - [特征平台需求层次理论](https://www.infoq.cn/article/83sxswlgqvejae7f9vut)
+- [netflix 特征平台](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907)
 
 
 ## 用户画像
