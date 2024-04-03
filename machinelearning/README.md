@@ -16,6 +16,7 @@
 - [动量梯度下降法Momentum](https://terrifyzhao.github.io/2018/02/16/%E5%8A%A8%E9%87%8F%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95Momentum.html)
 - [深度学习优化算法解析(Momentum, RMSProp, Adam)](https://blog.csdn.net/willduan1/article/details/78070086)
 - [Batch Normalization原理与实战](https://zhuanlan.zhihu.com/p/34879333)
+- [残差网络解决了什么，为什么有效？](https://www.cvmart.net/community/detail/3487)
 
 ### 注意力Attention
 - [一文看懂 Attention](https://easyaitech.medium.com/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82-attention-%E6%9C%AC%E8%B4%A8%E5%8E%9F%E7%90%86-3%E5%A4%A7%E4%BC%98%E7%82%B9-5%E5%A4%A7%E7%B1%BB%E5%9E%8B-e4fbe4b6d030)
