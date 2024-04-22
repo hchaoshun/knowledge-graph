@@ -67,6 +67,8 @@
 - [netflix 特征平台](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907)
 - [流批一体的实时特征工程平台建设实践](https://mp.weixin.qq.com/s/43Gh-rl7oiCKEmePhNuHHA)
 
+## 数据处理
+- [样本拼接工程实践](https://zhuanlan.zhihu.com/p/594275446)
 
 ## 用户画像
 - [终于有人把用户画像的流程、方法讲明白了](https://maimai.cn/article/detail?fid=1555064528&efid=rLyx_R8kghLbng2YFJ_Z-Q&share_channel=10&use_rn=1&_share_channel=dingtalk)
