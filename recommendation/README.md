@@ -39,6 +39,7 @@
 - [DCN网络](https://datawhalechina.github.io/fun-rec/#/ch02/ch2.2/ch2.2.2/DCN)
 - [多任务学习模型之ESMM介绍与实现](https://zhuanlan.zhihu.com/p/453034063)
 - [MMOE模型](https://datawhalechina.github.io/fun-rec/#/ch02/ch2.2/ch2.2.5/MMOE)
+- [BST: 当用户行为序列邂逅Transformer](https://zhuanlan.zhihu.com/p/60185134)
 
 ## 产品
 - [Feed 是什么](https://zhuanlan.zhihu.com/p/31440655)
