@@ -3,7 +3,9 @@
 ## 目录
 - [算法和数据结构](https://github.com/hchaoshun/knowledge-graph/tree/master/dsa)
 - [数据库](https://github.com/hchaoshun/knowledge-graph/tree/master/database)
+- [大数据](https://github.com/hchaoshun/knowledge-graph/tree/master/bigdata)
 - [消息队列](https://github.com/hchaoshun/knowledge-graph/tree/master/messagequeue)
+- [机器学习平台](https://github.com/hchaoshun/knowledge-graph/tree/master/mlops)
 - [分布式系统](https://github.com/hchaoshun/knowledge-graph/tree/master/distributedsystem)
 - [编程语言](https://github.com/hchaoshun/knowledge-graph/tree/master/programminglanguage)
 - [操作系统](https://github.com/hchaoshun/knowledge-graph/tree/master/operatesystem)
