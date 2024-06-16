@@ -24,6 +24,9 @@
 ## 推荐工程问题
 - [vivo 短视频推荐去重服务的设计实践](https://www.51cto.com/article/705399.html)
 
+### 样本工程
+- [推荐系统系列之排序任务的样本工程](https://aws.amazon.com/cn/blogs/china/sample-project-for-sorting-tasks-of-recommendation-system-series/)
+
 ## 推荐系统模型
 ### 传统模型
 - [FM（Factorization Machines）的理论与实践](https://zhuanlan.zhihu.com/p/50426292)
