@@ -119,6 +119,7 @@
 
 ## 数据仓库
 - [数据库 与 数据仓库的本质区别是什么？](https://www.zhihu.com/question/20623931)
+- [数仓建设 | ODS、DWD、DWM等理论实战（好文收藏）](https://mp.weixin.qq.com/s/lNE14-u2Gw2JoZybC1dhSw)
 - [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load#:~:text=In%20computing%2C%20extract%2C%20transform%2C,than%20the%20source(s).)
 - [Airflow快速学习入门](https://segmentfault.com/a/1190000039923621?utm_source=tag-newest)
 - [什么是实时数仓](https://mp.weixin.qq.com/s/8SdXPbntu6IUXZxLf9kGcw)
