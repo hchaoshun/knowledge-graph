@@ -123,6 +123,7 @@
 - [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load#:~:text=In%20computing%2C%20extract%2C%20transform%2C,than%20the%20source(s).)
 - [Airflow快速学习入门](https://segmentfault.com/a/1190000039923621?utm_source=tag-newest)
 - [什么是实时数仓](https://mp.weixin.qq.com/s/8SdXPbntu6IUXZxLf9kGcw)
+- [如何保障数仓数据质量？](https://mp.weixin.qq.com/s?__biz=Mzg2MzU2MDYzOA==&mid=2247496507&idx=1&sn=485166e393083ed52d7c46ab41703ce7&chksm=ce7405eaf9038cfc16087ed682d9769388f717c0dcccf9e36675a3f70e020df8eef29d2adeca&cur_album_id=1963023784806793216&scene=189#wechat_redirect)
 
 ## 在线学习
 - [在线学习（online learning）的总结](https://juejin.cn/post/7097942174372888606)
