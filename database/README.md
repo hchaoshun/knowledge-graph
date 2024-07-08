@@ -12,6 +12,7 @@
 - [Hash索引](https://www.jianshu.com/p/1c307a1e17fd)
 - [一张图搞懂MySQL的索引失效](https://segmentfault.com/a/1190000021464570)
 - [MySQL-当前读、快照读、MVCC](https://www.jianshu.com/p/eb3f56565b42)
+- [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
 ### MySQL
 - [查找算法 – B树 B+树](https://www.hadoop1024.com/2018/08/28/b-tree/)
