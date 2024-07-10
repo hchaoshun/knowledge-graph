@@ -9,6 +9,7 @@
 - [如何直观地解释 backpropagation 算法？](https://www.zhihu.com/question/27239198/answer/89853077)
 - [What is the difference between linear regression and logistic regression?](https://stackoverflow.com/questions/12146914/what-is-the-difference-between-linear-regression-and-logistic-regression)
 - [线性回归与逻辑回归的区别](https://blog.csdn.net/likewind1993/article/details/84196135)
+- [Understanding Feature Importance in Machine Learning](https://builtin.com/data-science/feature-importance#:~:text=Feature%20importance%20is%20a%20step,to%20predict%20a%20certain%20variable.)
 
 ## Deep Learning
 - [Why Deep Learning Uses GPUs](https://deeplizard.com/learn/video/6stDhEA0wFQ)
