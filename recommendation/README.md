@@ -69,6 +69,7 @@
 - [特征平台需求层次理论](https://www.infoq.cn/article/83sxswlgqvejae7f9vut)
 - [netflix 特征平台](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907)
 - [流批一体的实时特征工程平台建设实践](https://mp.weixin.qq.com/s/43Gh-rl7oiCKEmePhNuHHA)
+- [基于Spark的大规模推荐系统特征工程](https://cloud.tencent.com/developer/article/1693889?areaId=106001)
 
 ## 数据处理
 - [样本拼接工程实践](https://zhuanlan.zhihu.com/p/594275446)
