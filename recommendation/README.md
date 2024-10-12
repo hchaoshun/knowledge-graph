@@ -20,6 +20,7 @@
 
 ### 在线推理
 - [Speeding Up Deep Learning Inference Using NVIDIA TensorRT](https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt-updated/)
+- [基于TensorFlow Serving的深度学习在线预估](https://tech.meituan.com/2018/10/11/tfserving-improve.html)
 
 ## 推荐工程问题
 - [vivo 短视频推荐去重服务的设计实践](https://www.51cto.com/article/705399.html)
