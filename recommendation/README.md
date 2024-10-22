@@ -58,6 +58,7 @@
 
 ## 特征工程
 - [推荐系统】特征拼接和工程实践](https://blog.csdn.net/qq_35812205/article/details/130858341)
+- [What is a Feature Store?](https://feast.dev/blog/what-is-a-feature-store/)
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
 - [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction)
 - [美团外卖特征平台的建设与实践](https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html)
