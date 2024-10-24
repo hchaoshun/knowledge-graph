@@ -57,6 +57,7 @@
 - [从狂热到理性：大模型训练三堵墙，一场少数人的游戏 | 钛媒体深度](https://mp.weixin.qq.com/s/mWW3dcpyp9BuUs0XVUMg9A)
 
 ## 特征工程
+- [特征平台需求层次理论](https://www.infoq.cn/article/83sxswlgqvejae7f9vut)
 - [推荐系统】特征拼接和工程实践](https://blog.csdn.net/qq_35812205/article/details/130858341)
 - [What is a Feature Store?](https://feast.dev/blog/what-is-a-feature-store/)
 - [机器学习之特征工程](https://blog.csdn.net/Dream_angel_Z/article/details/49388733)
@@ -69,7 +70,6 @@
 - [机器学习中的数据清洗与特征处理综述](https://tech.meituan.com/2015/02/10/machinelearning-data-feature-process.html)
 - [特征平台：定义、架构、工作流程和开源实现概述](https://mp.weixin.qq.com/s/fdtaDiMmIZosTJp615hK9Q)
 - [What is a Feature Store for Machine Learning?](https://www.featurestore.org/what-is-a-feature-store)
-- [特征平台需求层次理论](https://www.infoq.cn/article/83sxswlgqvejae7f9vut)
 - [netflix 特征平台](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907)
 - [流批一体的实时特征工程平台建设实践](https://mp.weixin.qq.com/s/43Gh-rl7oiCKEmePhNuHHA)
 - [基于Spark的大规模推荐系统特征工程](https://cloud.tencent.com/developer/article/1693889?areaId=106001)
