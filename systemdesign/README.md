@@ -94,7 +94,7 @@
 - [nginx 多进程架构详解](https://cloud.tencent.com/developer/article/1181573)
 
 ## tensorflow serving
-- [TensorFlow Serving的原理和代码实现](https://blog.csdn.net/xlie/article/details/81949947)
+- [TensorFlow Serving的原理和代码实现](https://naurril.github.io/howtos/2018/08/22/inside_tfs.html)
 - [基于TensorFlow Serving的深度学习在线预估](https://tech.meituan.com/2018/10/11/tfserving-improve.html)
 - [SavedModel Warmup](https://www.tensorflow.org/tfx/serving/saved_model_warmup)
 
