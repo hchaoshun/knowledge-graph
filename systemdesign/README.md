@@ -98,6 +98,7 @@
 - [基于TensorFlow Serving的深度学习在线预估](https://tech.meituan.com/2018/10/11/tfserving-improve.html)
 - [SavedModel Warmup](https://www.tensorflow.org/tfx/serving/saved_model_warmup)
 - [tensorflow底层架构](https://blog.csdn.net/2303_77224751/article/details/142426308?utm_source=chatgpt.com)
+- [tensorflow XLA JIT模式](https://chatgpt.com/share/67726216-7144-8000-bb14-af56c40a2d53)
 
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
