@@ -16,6 +16,7 @@ Linux/Unix和网络编程知识汇总
 - [brk(）和sbrk()函数的使用](https://blog.csdn.net/yusiguyuan/article/details/39496305)
 - [linux timerfd系列函数总结](https://www.cnblogs.com/wenqiang/p/6698371.html)
 - [NUMA架构介绍及优缺点分析](https://www.ctyun.cn/developer/article/415653655711813)
+- [RDMA技术技术](https://mp.weixin.qq.com/s/UqSydz8hJCFcX5CF30gXSw)
 
 ### 多路复用
 - [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
