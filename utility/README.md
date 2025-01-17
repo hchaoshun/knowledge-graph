@@ -74,6 +74,7 @@
 ### Linux命令
 - [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
 - [Guide to Linux jq Command for JSON Processing](https://www.baeldung.com/linux/jq-command-json)
+- [Linux硬链接和软连接的区别与总结](https://xzchsia.github.io/2020/03/05/linux-hard-soft-link/)
 
 ### Linux性能分析工具
 - [每天一个linux命令（47）：iostat命令](https://www.cnblogs.com/peida/archive/2012/12/28/2837345.html)
