@@ -50,3 +50,7 @@ Linux/Unix和网络编程知识汇总
 - [服务器最大TCP连接数及调优汇总](https://blog.csdn.net/OiteBody/article/details/111640298#:~:text=tcp%E7%AB%AF%E5%8F%A3%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B,%E5%88%B0%E4%B8%8D%E5%90%8C%E7%9A%84server%20ip%E3%80%82)
 - [HTTP 的本质？HTTP 和 RPC 的区别？](https://www.jianshu.com/p/fe5ccfc5d7bd)
 - [线上大量CLOSE_WAIT的原因深入分析](https://zhuanlan.zhihu.com/p/493915289)
+
+  ## 网络安全
+  - [常用的鉴权方式及它们之间的区别（JWT、Session、SSO等）](https://blog.csdn.net/weixin_42233867/article/details/130173368?spm=1001.2014.3001.5501)
+  - [OAuth 2.0授权模式及应用场景](https://blog.csdn.net/weixin_42233867/article/details/130311586?spm=1001.2014.3001.5502)
