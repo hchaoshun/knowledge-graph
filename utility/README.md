@@ -12,6 +12,7 @@
 ## k8s
 - [Kubernetes 入门教程](https://juejin.cn/post/7033600843131666469)
 - [K8S架构原理详解](https://mp.weixin.qq.com/s/K_5lj7Jb3qhCYbgWAh_yCQ)
+- [k8s--云原生的操作系统](https://chatgpt.com/c/67a5e7d1-a5ec-8000-8c25-620e9398b497)
 - [Perform Kubernetes Deployment Rolling Updates in Java](https://itnext.io/perform-kubernetes-deployment-rolling-updates-in-java-2a133dbe6e7e)
 - [How Deployment, Service & Ingress are Related in Kubernetes Manifest?](https://mp.weixin.qq.com/s/NU8Cj6DL8wEKFzVYhuyzbQ)
 - [跑AI大模型的K8s与普通K8s有什么不同？](https://mp.weixin.qq.com/s/dhz7BmtsDAH8tr2_ez7-bg)
