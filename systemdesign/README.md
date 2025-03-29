@@ -103,6 +103,9 @@
 ## 设计模式
 - [原型模式](https://www.runoob.com/design-pattern/prototype-pattern.html)
 
+## UML
+- [What is Unified Modeling Language (UML)?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
+
 ## 硬核课堂
 - [hard core home page](https://hardcore.feishu.cn/wiki/wikcn9i4sfdTkxVX0DYrMMbNBpd#)
 - [系统延迟的优化策略](https://nxwz51a5wp.feishu.cn/docs/doccnKV6gYLVLrMz5MLBTfXCKFd#)
