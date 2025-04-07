@@ -9,6 +9,7 @@
 - [完整的推荐系统架构设计](https://xie.infoq.cn/article/e1db36aecf60b4da29f56eeb4)
 - [推荐系统技术综述](https://mp.weixin.qq.com/s/e9xjwefYk2toN9CGK5uPXg)
 - [推荐系统魔术手: 推荐中的偏差与消偏策略总结](https://mp.weixin.qq.com/s/e8Axw70TaoDeqlYgbTua8g)
+- [谈谈推荐系统实践过程中的理解与思考](https://zhuanlan.zhihu.com/p/678507577?utm_source=chatgpt.com)
 
 ## 算法
 - [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
