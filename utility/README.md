@@ -17,6 +17,7 @@
 - [How Deployment, Service & Ingress are Related in Kubernetes Manifest?](https://mp.weixin.qq.com/s/NU8Cj6DL8wEKFzVYhuyzbQ)
 - [跑AI大模型的K8s与普通K8s有什么不同？](https://mp.weixin.qq.com/s/dhz7BmtsDAH8tr2_ez7-bg)
 - [k8s超卖](https://www.cnblogs.com/BlueBlueSea/p/16908418.html)
+- [k8s技术整理](https://chatgpt.com/share/681e9bfd-3b34-8000-bcb9-52bdf838c62a)
 
 ## service mesh
 - [什么是 Service Mesh](https://zhuanlan.zhihu.com/p/61901608)
