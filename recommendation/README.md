@@ -10,6 +10,7 @@
 - [推荐系统技术综述](https://mp.weixin.qq.com/s/e9xjwefYk2toN9CGK5uPXg)
 - [推荐系统魔术手: 推荐中的偏差与消偏策略总结](https://mp.weixin.qq.com/s/e8Axw70TaoDeqlYgbTua8g)
 - [谈谈推荐系统实践过程中的理解与思考](https://zhuanlan.zhihu.com/p/678507577?utm_source=chatgpt.com)
+- [从网上找一下百度等大厂推荐系统召回、排序等耗时是多少](https://chatgpt.com/share/682095c2-398c-8000-bd6b-32e625cae7a4)
 
 ## 算法
 - [推荐系统系列之隐语义模型](https://www.jianshu.com/p/7b6bb28c1753)
