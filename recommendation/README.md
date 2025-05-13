@@ -87,6 +87,7 @@
 - [网易严选DMP标签系统建设实践](https://mp.weixin.qq.com/s/1nN7wy42jYEshokr0nyaxA)
 
 ## 召回
+- [ANN检索算法总结](https://chatgpt.com/share/6822e5ee-18cc-8000-86ca-d3b772429e6b)
 - [腾讯万字长文——推荐系统 embedding 技术实践总结](https://zhuanlan.zhihu.com/p/328481154)
 - [Faiss: A library for efficient similarity search](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 - [亿级向量相似度检索库Faiss 原理+应用](https://mp.weixin.qq.com/s/EtnTDkaXwVNMXKagIw9JCg)
