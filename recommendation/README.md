@@ -77,6 +77,7 @@
 - [基于Spark的大规模推荐系统特征工程](https://cloud.tencent.com/developer/article/1693889?areaId=106001)
 - [机器学习中的数据漂移问题](https://www.bilibili.com/read/cv18322985/)
 - [Michelangelo Palette: A Feature Engineering Platform at Uber](https://www.infoq.com/presentations/michelangelo-palette-uber/#downloadPdf/)
+- [解决hive实时更新的问题](https://chatgpt.com/share/682941aa-5710-8000-9931-2d9e7c0dbcae)
 
 ## 数据处理
 - [样本拼接工程实践](https://zhuanlan.zhihu.com/p/594275446)
