@@ -88,6 +88,7 @@
 
 ## Golang
 
+- [Golang快速复习](https://chatgpt.com/share/687baaa5-9df0-8000-a44d-5fa8060d2da8)
 - [Golang 之协程详解](https://www.cnblogs.com/liang1101/p/7285955.html)
 - [Golang 大杀器之性能剖析 PProf](https://segmentfault.com/a/1190000016412013)
 - [undefined (cannot refer to unexported field or method)](https://stackoverflow.com/questions/35811215/undefined-cannot-refer-to-unexported-field-or-method-in-golang/35811275)
